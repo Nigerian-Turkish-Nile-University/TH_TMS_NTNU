@@ -1,0 +1,898 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="11/20/2010 15:43:12" ReportInfo.Modified="12/15/2010 11:12:50" ReportInfo.CreatorVersion="1.4.44.0">
+  <Dictionary>
+    <Parameter Name="title" DataType="System.String">
+      <Parameter Name="1" DataType="System.String"/>
+      <Parameter Name="2" DataType="System.String"/>
+      <Parameter Name="3" DataType="System.String"/>
+      <Parameter Name="4" DataType="System.String"/>
+      <Parameter Name="5" DataType="System.String"/>
+      <Parameter Name="6" DataType="System.String"/>
+      <Parameter Name="7" DataType="System.String"/>
+      <Parameter Name="8" DataType="System.String"/>
+      <Parameter Name="9" DataType="System.String"/>
+      <Parameter Name="10" DataType="System.String"/>
+      <Parameter Name="11" DataType="System.String"/>
+      <Parameter Name="12" DataType="System.String"/>
+      <Parameter Name="13" DataType="System.String"/>
+      <Parameter Name="14" DataType="System.String"/>
+      <Parameter Name="15" DataType="System.String"/>
+      <Parameter Name="16" DataType="System.String"/>
+      <Parameter Name="17" DataType="System.String"/>
+      <Parameter Name="18" DataType="System.String"/>
+      <Parameter Name="19" DataType="System.String"/>
+      <Parameter Name="20" DataType="System.String"/>
+      <Parameter Name="21" DataType="System.String"/>
+      <Parameter Name="22" DataType="System.String"/>
+      <Parameter Name="23" DataType="System.String"/>
+      <Parameter Name="24" DataType="System.String"/>
+      <Parameter Name="25" DataType="System.String"/>
+      <Parameter Name="26" DataType="System.String"/>
+      <Parameter Name="27" DataType="System.String"/>
+      <Parameter Name="28" DataType="System.String"/>
+      <Parameter Name="29" DataType="System.String"/>
+      <Parameter Name="30" DataType="System.String"/>
+      <Parameter Name="31" DataType="System.String"/>
+      <Parameter Name="32" DataType="System.String"/>
+      <Parameter Name="33" DataType="System.String"/>
+      <Parameter Name="34" DataType="System.String"/>
+      <Parameter Name="35" DataType="System.String"/>
+      <Parameter Name="36" DataType="System.String"/>
+      <Parameter Name="37" DataType="System.String"/>
+      <Parameter Name="38" DataType="System.String"/>
+      <Parameter Name="39" DataType="System.String"/>
+      <Parameter Name="40" DataType="System.String"/>
+      <Parameter Name="41" DataType="System.String"/>
+      <Parameter Name="42" DataType="System.String"/>
+      <Parameter Name="43" DataType="System.String"/>
+      <Parameter Name="44" DataType="System.String"/>
+      <Parameter Name="45" DataType="System.String"/>
+      <Parameter Name="46" DataType="System.String"/>
+      <Parameter Name="47" DataType="System.String"/>
+      <Parameter Name="48" DataType="System.String"/>
+      <Parameter Name="49" DataType="System.String"/>
+      <Parameter Name="50" DataType="System.String"/>
+      <Parameter Name="51" DataType="System.String"/>
+      <Parameter Name="52" DataType="System.String"/>
+      <Parameter Name="53" DataType="System.String"/>
+      <Parameter Name="54" DataType="System.String"/>
+      <Parameter Name="55" DataType="System.String"/>
+      <Parameter Name="56" DataType="System.String"/>
+      <Parameter Name="57" DataType="System.String"/>
+      <Parameter Name="58" DataType="System.String"/>
+      <Parameter Name="59" DataType="System.String"/>
+      <Parameter Name="60" DataType="System.String"/>
+      <Parameter Name="61" DataType="System.String"/>
+      <Parameter Name="62" DataType="System.String"/>
+      <Parameter Name="63" DataType="System.String"/>
+      <Parameter Name="64" DataType="System.String"/>
+      <Parameter Name="65" DataType="System.String"/>
+      <Parameter Name="66" DataType="System.String"/>
+      <Parameter Name="67" DataType="System.String"/>
+      <Parameter Name="68" DataType="System.String"/>
+      <Parameter Name="69" DataType="System.String"/>
+      <Parameter Name="70" DataType="System.String"/>
+      <Parameter Name="71" DataType="System.String"/>
+      <Parameter Name="72" DataType="System.String"/>
+      <Parameter Name="73" DataType="System.String"/>
+      <Parameter Name="74" DataType="System.String"/>
+      <Parameter Name="75" DataType="System.String"/>
+      <Parameter Name="76" DataType="System.String"/>
+      <Parameter Name="77" DataType="System.String"/>
+      <Parameter Name="78" DataType="System.String"/>
+      <Parameter Name="79" DataType="System.String"/>
+      <Parameter Name="80" DataType="System.String"/>
+      <Parameter Name="81" DataType="System.String"/>
+      <Parameter Name="82" DataType="System.String"/>
+      <Parameter Name="83" DataType="System.String"/>
+      <Parameter Name="84" DataType="System.String"/>
+      <Parameter Name="85" DataType="System.String"/>
+      <Parameter Name="86" DataType="System.String"/>
+      <Parameter Name="87" DataType="System.String"/>
+      <Parameter Name="88" DataType="System.String"/>
+      <Parameter Name="89" DataType="System.String"/>
+      <Parameter Name="90" DataType="System.String"/>
+      <Parameter Name="91" DataType="System.String"/>
+      <Parameter Name="92" DataType="System.String"/>
+      <Parameter Name="93" DataType="System.String"/>
+      <Parameter Name="94" DataType="System.String"/>
+      <Parameter Name="95" DataType="System.String"/>
+      <Parameter Name="96" DataType="System.String"/>
+      <Parameter Name="97" DataType="System.String"/>
+      <Parameter Name="98" DataType="System.String"/>
+      <Parameter Name="99" DataType="System.String"/>
+      <Parameter Name="100" DataType="System.String"/>
+      <Parameter Name="101" DataType="System.String"/>
+      <Parameter Name="102" DataType="System.String"/>
+      <Parameter Name="103" DataType="System.String"/>
+      <Parameter Name="104" DataType="System.String"/>
+    </Parameter>
+    <Parameter Name="umumi" DataType="System.String">
+      <Parameter Name="1" DataType="System.String"/>
+      <Parameter Name="2" DataType="System.String"/>
+      <Parameter Name="3" DataType="System.String"/>
+      <Parameter Name="4" DataType="System.String"/>
+      <Parameter Name="5" DataType="System.String"/>
+      <Parameter Name="6" DataType="System.String"/>
+      <Parameter Name="7" DataType="System.String"/>
+      <Parameter Name="8" DataType="System.String"/>
+      <Parameter Name="9" DataType="System.String"/>
+      <Parameter Name="10" DataType="System.String"/>
+      <Parameter Name="11" DataType="System.String"/>
+      <Parameter Name="12" DataType="System.String"/>
+      <Parameter Name="13" DataType="System.String"/>
+      <Parameter Name="14" DataType="System.String"/>
+      <Parameter Name="15" DataType="System.String"/>
+      <Parameter Name="16" DataType="System.String"/>
+      <Parameter Name="17" DataType="System.String"/>
+      <Parameter Name="18" DataType="System.String"/>
+      <Parameter Name="19" DataType="System.String"/>
+      <Parameter Name="20" DataType="System.String"/>
+      <Parameter Name="21" DataType="System.String"/>
+      <Parameter Name="22" DataType="System.String"/>
+      <Parameter Name="23" DataType="System.String"/>
+      <Parameter Name="24" DataType="System.String"/>
+      <Parameter Name="25" DataType="System.String"/>
+      <Parameter Name="26" DataType="System.String"/>
+      <Parameter Name="27" DataType="System.String"/>
+      <Parameter Name="28" DataType="System.String"/>
+      <Parameter Name="29" DataType="System.String"/>
+      <Parameter Name="30" DataType="System.String"/>
+      <Parameter Name="31" DataType="System.String"/>
+      <Parameter Name="32" DataType="System.String"/>
+      <Parameter Name="33" DataType="System.String"/>
+      <Parameter Name="34" DataType="System.String"/>
+      <Parameter Name="35" DataType="System.String"/>
+      <Parameter Name="36" DataType="System.String"/>
+      <Parameter Name="37" DataType="System.String"/>
+      <Parameter Name="38" DataType="System.String"/>
+      <Parameter Name="39" DataType="System.String"/>
+      <Parameter Name="40" DataType="System.String"/>
+      <Parameter Name="41" DataType="System.String"/>
+      <Parameter Name="42" DataType="System.String"/>
+      <Parameter Name="43" DataType="System.String"/>
+      <Parameter Name="44" DataType="System.String"/>
+      <Parameter Name="45" DataType="System.String"/>
+      <Parameter Name="46" DataType="System.String"/>
+      <Parameter Name="47" DataType="System.String"/>
+      <Parameter Name="48" DataType="System.String"/>
+      <Parameter Name="49" DataType="System.String"/>
+      <Parameter Name="50" DataType="System.String"/>
+      <Parameter Name="51" DataType="System.String"/>
+      <Parameter Name="52" DataType="System.String"/>
+      <Parameter Name="53" DataType="System.String"/>
+      <Parameter Name="54" DataType="System.String"/>
+      <Parameter Name="55" DataType="System.String"/>
+      <Parameter Name="56" DataType="System.String"/>
+      <Parameter Name="57" DataType="System.String"/>
+      <Parameter Name="58" DataType="System.String"/>
+      <Parameter Name="59" DataType="System.String"/>
+      <Parameter Name="60" DataType="System.String"/>
+      <Parameter Name="61" DataType="System.String"/>
+      <Parameter Name="62" DataType="System.String"/>
+      <Parameter Name="63" DataType="System.String"/>
+      <Parameter Name="64" DataType="System.String"/>
+      <Parameter Name="65" DataType="System.String"/>
+      <Parameter Name="66" DataType="System.String"/>
+      <Parameter Name="67" DataType="System.String"/>
+      <Parameter Name="68" DataType="System.String"/>
+      <Parameter Name="69" DataType="System.String"/>
+      <Parameter Name="70" DataType="System.String"/>
+      <Parameter Name="71" DataType="System.String"/>
+      <Parameter Name="72" DataType="System.String"/>
+      <Parameter Name="73" DataType="System.String"/>
+      <Parameter Name="74" DataType="System.String"/>
+      <Parameter Name="75" DataType="System.String"/>
+      <Parameter Name="76" DataType="System.String"/>
+      <Parameter Name="77" DataType="System.String"/>
+      <Parameter Name="78" DataType="System.String"/>
+      <Parameter Name="79" DataType="System.String"/>
+      <Parameter Name="80" DataType="System.String"/>
+      <Parameter Name="81" DataType="System.String"/>
+      <Parameter Name="82" DataType="System.String"/>
+      <Parameter Name="83" DataType="System.String"/>
+      <Parameter Name="84" DataType="System.String"/>
+      <Parameter Name="85" DataType="System.String"/>
+      <Parameter Name="86" DataType="System.String"/>
+      <Parameter Name="87" DataType="System.String"/>
+      <Parameter Name="88" DataType="System.String"/>
+      <Parameter Name="89" DataType="System.String"/>
+      <Parameter Name="90" DataType="System.String"/>
+      <Parameter Name="91" DataType="System.String"/>
+      <Parameter Name="92" DataType="System.String"/>
+      <Parameter Name="93" DataType="System.String"/>
+      <Parameter Name="94" DataType="System.String"/>
+      <Parameter Name="95" DataType="System.String"/>
+      <Parameter Name="96" DataType="System.String"/>
+      <Parameter Name="97" DataType="System.String"/>
+      <Parameter Name="98" DataType="System.String"/>
+      <Parameter Name="99" DataType="System.String"/>
+      <Parameter Name="100" DataType="System.String"/>
+      <Parameter Name="101" DataType="System.String"/>
+      <Parameter Name="102" DataType="System.String"/>
+      <Parameter Name="103" DataType="System.String"/>
+      <Parameter Name="104" DataType="System.String"/>
+    </Parameter>
+    <Parameter Name="auditoriya" DataType="System.String">
+      <Parameter Name="1" DataType="System.String"/>
+      <Parameter Name="2" DataType="System.String"/>
+      <Parameter Name="3" DataType="System.String"/>
+      <Parameter Name="4" DataType="System.String"/>
+      <Parameter Name="5" DataType="System.String"/>
+      <Parameter Name="6" DataType="System.String"/>
+      <Parameter Name="7" DataType="System.String"/>
+      <Parameter Name="8" DataType="System.String"/>
+      <Parameter Name="9" DataType="System.String"/>
+      <Parameter Name="10" DataType="System.String"/>
+      <Parameter Name="11" DataType="System.String"/>
+      <Parameter Name="12" DataType="System.String"/>
+      <Parameter Name="13" DataType="System.String"/>
+      <Parameter Name="14" DataType="System.String"/>
+      <Parameter Name="15" DataType="System.String"/>
+      <Parameter Name="16" DataType="System.String"/>
+      <Parameter Name="17" DataType="System.String"/>
+      <Parameter Name="18" DataType="System.String"/>
+      <Parameter Name="19" DataType="System.String"/>
+      <Parameter Name="20" DataType="System.String"/>
+      <Parameter Name="21" DataType="System.String"/>
+      <Parameter Name="22" DataType="System.String"/>
+      <Parameter Name="23" DataType="System.String"/>
+      <Parameter Name="24" DataType="System.String"/>
+      <Parameter Name="25" DataType="System.String"/>
+      <Parameter Name="26" DataType="System.String"/>
+      <Parameter Name="27" DataType="System.String"/>
+      <Parameter Name="28" DataType="System.String"/>
+      <Parameter Name="29" DataType="System.String"/>
+      <Parameter Name="30" DataType="System.String"/>
+      <Parameter Name="31" DataType="System.String"/>
+      <Parameter Name="32" DataType="System.String"/>
+      <Parameter Name="33" DataType="System.String"/>
+      <Parameter Name="34" DataType="System.String"/>
+      <Parameter Name="35" DataType="System.String"/>
+      <Parameter Name="36" DataType="System.String"/>
+      <Parameter Name="37" DataType="System.String"/>
+      <Parameter Name="38" DataType="System.String"/>
+      <Parameter Name="39" DataType="System.String"/>
+      <Parameter Name="40" DataType="System.String"/>
+      <Parameter Name="41" DataType="System.String"/>
+      <Parameter Name="42" DataType="System.String"/>
+      <Parameter Name="43" DataType="System.String"/>
+      <Parameter Name="44" DataType="System.String"/>
+      <Parameter Name="45" DataType="System.String"/>
+      <Parameter Name="46" DataType="System.String"/>
+      <Parameter Name="47" DataType="System.String"/>
+      <Parameter Name="48" DataType="System.String"/>
+      <Parameter Name="49" DataType="System.String"/>
+      <Parameter Name="50" DataType="System.String"/>
+      <Parameter Name="51" DataType="System.String"/>
+      <Parameter Name="52" DataType="System.String"/>
+      <Parameter Name="53" DataType="System.String"/>
+      <Parameter Name="54" DataType="System.String"/>
+      <Parameter Name="55" DataType="System.String"/>
+      <Parameter Name="56" DataType="System.String"/>
+      <Parameter Name="57" DataType="System.String"/>
+      <Parameter Name="58" DataType="System.String"/>
+      <Parameter Name="59" DataType="System.String"/>
+      <Parameter Name="60" DataType="System.String"/>
+      <Parameter Name="61" DataType="System.String"/>
+      <Parameter Name="62" DataType="System.String"/>
+      <Parameter Name="63" DataType="System.String"/>
+      <Parameter Name="64" DataType="System.String"/>
+      <Parameter Name="65" DataType="System.String"/>
+      <Parameter Name="66" DataType="System.String"/>
+      <Parameter Name="67" DataType="System.String"/>
+      <Parameter Name="68" DataType="System.String"/>
+      <Parameter Name="69" DataType="System.String"/>
+      <Parameter Name="70" DataType="System.String"/>
+      <Parameter Name="71" DataType="System.String"/>
+      <Parameter Name="72" DataType="System.String"/>
+      <Parameter Name="73" DataType="System.String"/>
+      <Parameter Name="74" DataType="System.String"/>
+      <Parameter Name="75" DataType="System.String"/>
+      <Parameter Name="76" DataType="System.String"/>
+      <Parameter Name="77" DataType="System.String"/>
+      <Parameter Name="78" DataType="System.String"/>
+      <Parameter Name="79" DataType="System.String"/>
+      <Parameter Name="80" DataType="System.String"/>
+      <Parameter Name="81" DataType="System.String"/>
+      <Parameter Name="82" DataType="System.String"/>
+      <Parameter Name="83" DataType="System.String"/>
+      <Parameter Name="84" DataType="System.String"/>
+      <Parameter Name="85" DataType="System.String"/>
+      <Parameter Name="86" DataType="System.String"/>
+      <Parameter Name="87" DataType="System.String"/>
+      <Parameter Name="88" DataType="System.String"/>
+      <Parameter Name="89" DataType="System.String"/>
+      <Parameter Name="90" DataType="System.String"/>
+      <Parameter Name="91" DataType="System.String"/>
+      <Parameter Name="92" DataType="System.String"/>
+      <Parameter Name="93" DataType="System.String"/>
+      <Parameter Name="94" DataType="System.String"/>
+      <Parameter Name="95" DataType="System.String"/>
+      <Parameter Name="96" DataType="System.String"/>
+      <Parameter Name="97" DataType="System.String"/>
+      <Parameter Name="98" DataType="System.String"/>
+      <Parameter Name="99" DataType="System.String"/>
+      <Parameter Name="100" DataType="System.String"/>
+      <Parameter Name="101" DataType="System.String"/>
+      <Parameter Name="102" DataType="System.String"/>
+      <Parameter Name="103" DataType="System.String"/>
+      <Parameter Name="104" DataType="System.String"/>
+    </Parameter>
+    <Parameter Name="qiymet" DataType="System.String">
+      <Parameter Name="1" DataType="System.String"/>
+      <Parameter Name="2" DataType="System.String"/>
+      <Parameter Name="3" DataType="System.String"/>
+      <Parameter Name="4" DataType="System.String"/>
+      <Parameter Name="5" DataType="System.String"/>
+      <Parameter Name="6" DataType="System.String"/>
+      <Parameter Name="7" DataType="System.String"/>
+      <Parameter Name="8" DataType="System.String"/>
+      <Parameter Name="9" DataType="System.String"/>
+      <Parameter Name="10" DataType="System.String"/>
+      <Parameter Name="11" DataType="System.String"/>
+      <Parameter Name="12" DataType="System.String"/>
+      <Parameter Name="13" DataType="System.String"/>
+      <Parameter Name="14" DataType="System.String"/>
+      <Parameter Name="15" DataType="System.String"/>
+      <Parameter Name="16" DataType="System.String"/>
+      <Parameter Name="17" DataType="System.String"/>
+      <Parameter Name="18" DataType="System.String"/>
+      <Parameter Name="19" DataType="System.String"/>
+      <Parameter Name="20" DataType="System.String"/>
+      <Parameter Name="21" DataType="System.String"/>
+      <Parameter Name="22" DataType="System.String"/>
+      <Parameter Name="23" DataType="System.String"/>
+      <Parameter Name="24" DataType="System.String"/>
+      <Parameter Name="25" DataType="System.String"/>
+      <Parameter Name="26" DataType="System.String"/>
+      <Parameter Name="27" DataType="System.String"/>
+      <Parameter Name="28" DataType="System.String"/>
+      <Parameter Name="29" DataType="System.String"/>
+      <Parameter Name="30" DataType="System.String"/>
+      <Parameter Name="31" DataType="System.String"/>
+      <Parameter Name="32" DataType="System.String"/>
+      <Parameter Name="33" DataType="System.String"/>
+      <Parameter Name="34" DataType="System.String"/>
+      <Parameter Name="35" DataType="System.String"/>
+      <Parameter Name="36" DataType="System.String"/>
+      <Parameter Name="37" DataType="System.String"/>
+      <Parameter Name="38" DataType="System.String"/>
+      <Parameter Name="39" DataType="System.String"/>
+      <Parameter Name="40" DataType="System.String"/>
+      <Parameter Name="41" DataType="System.String"/>
+      <Parameter Name="42" DataType="System.String"/>
+      <Parameter Name="43" DataType="System.String"/>
+      <Parameter Name="44" DataType="System.String"/>
+      <Parameter Name="45" DataType="System.String"/>
+      <Parameter Name="46" DataType="System.String"/>
+      <Parameter Name="47" DataType="System.String"/>
+      <Parameter Name="48" DataType="System.String"/>
+      <Parameter Name="49" DataType="System.String"/>
+      <Parameter Name="50" DataType="System.String"/>
+      <Parameter Name="51" DataType="System.String"/>
+      <Parameter Name="52" DataType="System.String"/>
+      <Parameter Name="53" DataType="System.String"/>
+      <Parameter Name="54" DataType="System.String"/>
+      <Parameter Name="55" DataType="System.String"/>
+      <Parameter Name="56" DataType="System.String"/>
+      <Parameter Name="57" DataType="System.String"/>
+      <Parameter Name="58" DataType="System.String"/>
+      <Parameter Name="59" DataType="System.String"/>
+      <Parameter Name="60" DataType="System.String"/>
+      <Parameter Name="61" DataType="System.String"/>
+      <Parameter Name="62" DataType="System.String"/>
+      <Parameter Name="63" DataType="System.String"/>
+      <Parameter Name="64" DataType="System.String"/>
+      <Parameter Name="65" DataType="System.String"/>
+      <Parameter Name="66" DataType="System.String"/>
+      <Parameter Name="67" DataType="System.String"/>
+      <Parameter Name="68" DataType="System.String"/>
+      <Parameter Name="69" DataType="System.String"/>
+      <Parameter Name="70" DataType="System.String"/>
+      <Parameter Name="71" DataType="System.String"/>
+      <Parameter Name="72" DataType="System.String"/>
+      <Parameter Name="73" DataType="System.String"/>
+      <Parameter Name="74" DataType="System.String"/>
+      <Parameter Name="75" DataType="System.String"/>
+      <Parameter Name="76" DataType="System.String"/>
+      <Parameter Name="77" DataType="System.String"/>
+      <Parameter Name="78" DataType="System.String"/>
+      <Parameter Name="79" DataType="System.String"/>
+      <Parameter Name="80" DataType="System.String"/>
+      <Parameter Name="81" DataType="System.String"/>
+      <Parameter Name="82" DataType="System.String"/>
+      <Parameter Name="83" DataType="System.String"/>
+      <Parameter Name="84" DataType="System.String"/>
+      <Parameter Name="85" DataType="System.String"/>
+      <Parameter Name="86" DataType="System.String"/>
+      <Parameter Name="87" DataType="System.String"/>
+      <Parameter Name="88" DataType="System.String"/>
+      <Parameter Name="89" DataType="System.String"/>
+      <Parameter Name="90" DataType="System.String"/>
+      <Parameter Name="91" DataType="System.String"/>
+      <Parameter Name="92" DataType="System.String"/>
+      <Parameter Name="93" DataType="System.String"/>
+      <Parameter Name="94" DataType="System.String"/>
+      <Parameter Name="95" DataType="System.String"/>
+      <Parameter Name="96" DataType="System.String"/>
+      <Parameter Name="97" DataType="System.String"/>
+      <Parameter Name="98" DataType="System.String"/>
+      <Parameter Name="99" DataType="System.String"/>
+      <Parameter Name="100" DataType="System.String"/>
+      <Parameter Name="101" DataType="System.String"/>
+      <Parameter Name="102" DataType="System.String"/>
+      <Parameter Name="103" DataType="System.String"/>
+      <Parameter Name="104" DataType="System.String"/>
+    </Parameter>
+    <Parameter Name="info" DataType="System.String">
+      <Parameter Name="full_name" DataType="System.String"/>
+      <Parameter Name="parent_name" DataType="System.String"/>
+      <Parameter Name="birth_date" DataType="System.String"/>
+      <Parameter Name="attestat" DataType="System.String"/>
+      <Parameter Name="entry_date" DataType="System.String"/>
+      <Parameter Name="entry_year" DataType="System.String"/>
+      <Parameter Name="istiqamet" DataType="System.String"/>
+      <Parameter Name="department" DataType="System.String"/>
+      <Parameter Name="1" DataType="System.String"/>
+      <Parameter Name="2" DataType="System.String"/>
+      <Parameter Name="3" DataType="System.String"/>
+      <Parameter Name="4" DataType="System.String"/>
+      <Parameter Name="5" DataType="System.String"/>
+      <Parameter Name="6" DataType="System.String"/>
+      <Parameter Name="7" DataType="System.String"/>
+      <Parameter Name="8" DataType="System.String"/>
+      <Parameter Name="9" DataType="System.String"/>
+      <Parameter Name="10" DataType="System.String"/>
+      <Parameter Name="11" DataType="System.String"/>
+      <Parameter Name="12" DataType="System.String"/>
+      <Parameter Name="13" DataType="System.String"/>
+      <Parameter Name="14" DataType="System.String"/>
+      <Parameter Name="15" DataType="System.String"/>
+      <Parameter Name="16" DataType="System.String"/>
+      <Parameter Name="17" DataType="System.String"/>
+      <Parameter Name="18" DataType="System.String"/>
+      <Parameter Name="19" DataType="System.String"/>
+      <Parameter Name="20" DataType="System.String"/>
+      <Parameter Name="21" DataType="System.String"/>
+    </Parameter>
+  </Dictionary>
+  <ReportPage Name="Page1" Landscape="true" PaperWidth="289" PaperHeight="203" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0">
+    <ReportTitleBand Name="ReportTitle1" Width="1092.42" Height="767.34">
+      <TextObject Name="Text1" Left="97.52" Top="162.54" Width="268.38" Height="15.12" Text="[title.1]" Font="Arial, 9pt"/>
+      <TextObject Name="Text2" Left="369.31" Top="162.54" Width="45.36" Height="15.12" Text="[umumi.1]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text3" Left="420.34" Top="162.54" Width="49.14" Height="15.12" Text="[auditoriya.1]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text4" Left="475.9" Top="162.54" Width="83.16" Height="15.12" Text="[qiymet.1]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text5" Left="97.52" Top="178.55" Width="268.38" Height="15.12" Text="[title.2]" Font="Arial, 9pt"/>
+      <TextObject Name="Text6" Left="369.31" Top="178.55" Width="45.36" Height="15.12" Text="[umumi.2]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text7" Left="420.34" Top="178.55" Width="49.14" Height="15.12" Text="[auditoriya.2]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text8" Left="475.9" Top="178.55" Width="83.16" Height="15.12" Text="[qiymet.2]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text9" Left="97.52" Top="195.45" Width="268.38" Height="15.12" Text="[title.3]" Font="Arial, 9pt"/>
+      <TextObject Name="Text10" Left="369.31" Top="195.45" Width="45.36" Height="15.12" Text="[umumi.3]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text11" Left="420.34" Top="195.45" Width="49.14" Height="15.12" Text="[auditoriya.3]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text12" Left="475.9" Top="195.45" Width="83.16" Height="15.12" Text="[qiymet.3]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text13" Left="97.52" Top="213.46" Width="268.38" Height="15.12" Text="[title.4]" Font="Arial, 9pt"/>
+      <TextObject Name="Text14" Left="369.31" Top="213.46" Width="45.36" Height="15.12" Text="[umumi.4]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text15" Left="420.34" Top="213.46" Width="49.14" Height="15.12" Text="[auditoriya.4]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text16" Left="475.9" Top="213.46" Width="83.16" Height="15.12" Text="[qiymet.4]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text17" Left="97.52" Top="228.8" Width="268.38" Height="15.12" Text="[title.5]" Font="Arial, 9pt"/>
+      <TextObject Name="Text18" Left="369.31" Top="228.8" Width="45.36" Height="15.12" Text="[umumi.5]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text19" Left="420.34" Top="228.8" Width="49.14" Height="15.12" Text="[auditoriya.5]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text20" Left="475.9" Top="228.8" Width="83.16" Height="15.12" Text="[qiymet.5]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text21" Left="97.52" Top="245.81" Width="268.38" Height="15.12" Text="[title.6]" Font="Arial, 9pt"/>
+      <TextObject Name="Text22" Left="369.31" Top="245.81" Width="45.36" Height="15.12" Text="[umumi.6]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text23" Left="420.34" Top="245.81" Width="49.14" Height="15.12" Text="[auditoriya.6]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text24" Left="475.9" Top="245.81" Width="83.16" Height="15.12" Text="[qiymet.6]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text25" Left="97.52" Top="262.71" Width="268.38" Height="15.12" Text="[title.7]" Font="Arial, 9pt"/>
+      <TextObject Name="Text26" Left="369.31" Top="262.71" Width="45.36" Height="15.12" Text="[umumi.7]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text27" Left="420.34" Top="262.71" Width="49.14" Height="15.12" Text="[auditoriya.7]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text28" Left="475.9" Top="262.71" Width="83.16" Height="15.12" Text="[qiymet.7]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text29" Left="97.52" Top="279.72" Width="268.38" Height="15.12" Text="[title.8]" Font="Arial, 9pt"/>
+      <TextObject Name="Text30" Left="369.31" Top="279.72" Width="45.36" Height="15.12" Text="[umumi.8]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text31" Left="420.34" Top="279.72" Width="49.14" Height="15.12" Text="[auditoriya.8]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text32" Left="475.9" Top="279.72" Width="83.16" Height="15.12" Text="[qiymet.8]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text33" Left="97.52" Top="296.95" Width="268.38" Height="15.12" Text="[title.9]" Font="Arial, 9pt"/>
+      <TextObject Name="Text34" Left="369.31" Top="296.95" Width="45.36" Height="15.12" Text="[umumi.9]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text35" Left="420.34" Top="296.95" Width="49.14" Height="15.12" Text="[auditoriya.9]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text36" Left="475.9" Top="296.95" Width="83.16" Height="15.12" Text="[qiymet.9]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text37" Left="97.52" Top="313.96" Width="268.38" Height="15.12" Text="[title.10]" Font="Arial, 9pt"/>
+      <TextObject Name="Text38" Left="369.31" Top="313.96" Width="45.36" Height="15.12" Text="[umumi.10]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text39" Left="420.34" Top="313.96" Width="49.14" Height="15.12" Text="[auditoriya.10]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text40" Left="475.9" Top="313.96" Width="83.16" Height="15.12" Text="[qiymet.10]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text41" Left="97.52" Top="330.86" Width="268.38" Height="15.12" Text="[title.11]" Font="Arial, 9pt"/>
+      <TextObject Name="Text42" Left="369.31" Top="330.86" Width="45.36" Height="15.12" Text="[umumi.11]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text43" Left="420.34" Top="330.86" Width="49.14" Height="15.12" Text="[auditoriya.11]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text44" Left="475.9" Top="330.86" Width="83.16" Height="15.12" Text="[qiymet.11]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text45" Left="97.52" Top="347.87" Width="268.38" Height="15.12" Text="[title.12]" Font="Arial, 9pt"/>
+      <TextObject Name="Text46" Left="369.31" Top="347.87" Width="45.36" Height="15.12" Text="[umumi.12]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text47" Left="420.34" Top="347.87" Width="49.14" Height="15.12" Text="[auditoriya.12]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text48" Left="475.9" Top="347.87" Width="83.16" Height="15.12" Text="[qiymet.12]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text49" Left="97.52" Top="363.21" Width="268.38" Height="15.12" Text="[title.13]" Font="Arial, 9pt"/>
+      <TextObject Name="Text50" Left="369.31" Top="363.21" Width="45.36" Height="15.12" Text="[umumi.13]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text51" Left="420.34" Top="363.21" Width="49.14" Height="15.12" Text="[auditoriya.13]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text52" Left="475.9" Top="363.21" Width="83.16" Height="15.12" Text="[qiymet.13]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text53" Left="97.52" Top="380.22" Width="268.38" Height="15.12" Text="[title.14]" Font="Arial, 9pt"/>
+      <TextObject Name="Text54" Left="369.31" Top="380.22" Width="45.36" Height="15.12" Text="[umumi.14]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text55" Left="420.34" Top="380.22" Width="49.14" Height="15.12" Text="[auditoriya.14]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text56" Left="475.9" Top="380.22" Width="83.16" Height="15.12" Text="[qiymet.14]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text57" Left="97.52" Top="397.12" Width="268.38" Height="15.12" Text="[title.15]" Font="Arial, 9pt"/>
+      <TextObject Name="Text58" Left="369.31" Top="397.12" Width="45.36" Height="15.12" Text="[umumi.15]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text59" Left="420.34" Top="397.12" Width="49.14" Height="15.12" Text="[auditoriya.15]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text60" Left="475.9" Top="397.12" Width="83.16" Height="15.12" Text="[qiymet.15]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text61" Left="97.52" Top="414.13" Width="268.38" Height="15.12" Text="[title.16]" Font="Arial, 9pt"/>
+      <TextObject Name="Text62" Left="369.31" Top="414.13" Width="45.36" Height="15.12" Text="[umumi.16]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text63" Left="420.34" Top="414.13" Width="49.14" Height="15.12" Text="[auditoriya.16]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text64" Left="475.9" Top="414.13" Width="83.16" Height="15.12" Text="[qiymet.16]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text65" Left="97.52" Top="430.8" Width="268.38" Height="15.12" Text="[title.17]" Font="Arial, 9pt"/>
+      <TextObject Name="Text66" Left="369.31" Top="430.8" Width="45.36" Height="15.12" Text="[umumi.17]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text67" Left="420.34" Top="430.8" Width="49.14" Height="15.12" Text="[auditoriya.17]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text68" Left="475.9" Top="430.8" Width="83.16" Height="15.12" Text="[qiymet.17]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text69" Left="97.52" Top="447.81" Width="268.38" Height="15.12" Text="[title.18]" Font="Arial, 9pt"/>
+      <TextObject Name="Text70" Left="369.31" Top="447.81" Width="45.36" Height="15.12" Text="[umumi.18]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text71" Left="420.34" Top="447.81" Width="49.14" Height="15.12" Text="[auditoriya.18]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text72" Left="475.9" Top="447.81" Width="83.16" Height="15.12" Text="[qiymet.18]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text73" Left="97.52" Top="464.71" Width="268.38" Height="15.12" Text="[title.19]" Font="Arial, 9pt"/>
+      <TextObject Name="Text74" Left="369.31" Top="464.71" Width="45.36" Height="15.12" Text="[umumi.19]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text75" Left="420.34" Top="464.71" Width="49.14" Height="15.12" Text="[auditoriya.19]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text76" Left="475.9" Top="464.71" Width="83.16" Height="15.12" Text="[qiymet.19]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text77" Left="97.52" Top="481.72" Width="268.38" Height="15.12" Text="[title.20]" Font="Arial, 9pt"/>
+      <TextObject Name="Text78" Left="369.31" Top="481.72" Width="45.36" Height="15.12" Text="[umumi.20]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text79" Left="420.34" Top="481.72" Width="49.14" Height="15.12" Text="[auditoriya.20]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text80" Left="475.9" Top="481.72" Width="83.16" Height="15.12" Text="[qiymet.20]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text81" Left="97.52" Top="499.06" Width="268.38" Height="15.12" Text="[title.21]" Font="Arial, 9pt"/>
+      <TextObject Name="Text82" Left="369.31" Top="499.06" Width="45.36" Height="15.12" Text="[umumi.21]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text83" Left="420.34" Top="499.06" Width="49.14" Height="15.12" Text="[auditoriya.21]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text84" Left="475.9" Top="499.06" Width="83.16" Height="15.12" Text="[qiymet.21]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text85" Left="97.52" Top="516.07" Width="268.38" Height="15.12" Text="[title.22]" Font="Arial, 9pt"/>
+      <TextObject Name="Text86" Left="369.31" Top="516.07" Width="45.36" Height="15.12" Text="[umumi.22]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text87" Left="420.34" Top="516.07" Width="49.14" Height="15.12" Text="[auditoriya.22]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text88" Left="475.9" Top="516.07" Width="83.16" Height="15.12" Text="[qiymet.22]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text89" Left="97.52" Top="532.97" Width="268.38" Height="15.12" Text="[title.23]" Font="Arial, 9pt"/>
+      <TextObject Name="Text90" Left="369.31" Top="532.97" Width="45.36" Height="15.12" Text="[umumi.23]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text91" Left="420.34" Top="532.97" Width="49.14" Height="15.12" Text="[auditoriya.23]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text92" Left="475.9" Top="532.97" Width="83.16" Height="15.12" Text="[qiymet.23]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text93" Left="97.52" Top="549.98" Width="268.38" Height="15.12" Text="[title.24]" Font="Arial, 9pt"/>
+      <TextObject Name="Text94" Left="369.31" Top="549.98" Width="45.36" Height="15.12" Text="[umumi.24]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text95" Left="420.34" Top="549.98" Width="49.14" Height="15.12" Text="[auditoriya.24]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text96" Left="475.9" Top="549.98" Width="83.16" Height="15.12" Text="[qiymet.24]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text97" Left="97.52" Top="567.21" Width="268.38" Height="15.12" Text="[title.25]" Font="Arial, 9pt"/>
+      <TextObject Name="Text98" Left="369.31" Top="567.21" Width="45.36" Height="15.12" Text="[umumi.25]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text99" Left="420.34" Top="567.21" Width="49.14" Height="15.12" Text="[auditoriya.25]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text100" Left="475.9" Top="567.21" Width="83.16" Height="15.12" Text="[qiymet.25]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text101" Left="97.52" Top="584.22" Width="268.38" Height="15.12" Text="[title.26]" Font="Arial, 9pt"/>
+      <TextObject Name="Text102" Left="369.31" Top="584.22" Width="45.36" Height="15.12" Text="[umumi.26]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text103" Left="420.34" Top="584.22" Width="49.14" Height="15.12" Text="[auditoriya.26]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text104" Left="475.9" Top="584.22" Width="83.16" Height="15.12" Text="[qiymet.26]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text105" Left="97.52" Top="601.12" Width="268.38" Height="15.12" Text="[title.27]" Font="Arial, 9pt"/>
+      <TextObject Name="Text106" Left="369.31" Top="601.12" Width="45.36" Height="15.12" Text="[umumi.27]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text107" Left="420.34" Top="601.12" Width="49.14" Height="15.12" Text="[auditoriya.27]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text108" Left="475.9" Top="601.12" Width="83.16" Height="15.12" Text="[qiymet.27]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text109" Left="97.52" Top="618.13" Width="268.38" Height="15.12" Text="[title.28]" Font="Arial, 9pt"/>
+      <TextObject Name="Text110" Left="369.31" Top="618.13" Width="45.36" Height="15.12" Text="[umumi.28]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text111" Left="420.34" Top="618.13" Width="49.14" Height="15.12" Text="[auditoriya.28]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text112" Left="475.9" Top="618.13" Width="83.16" Height="15.12" Text="[qiymet.28]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text113" Left="97.52" Top="635.47" Width="268.38" Height="15.12" Text="[title.29]" Font="Arial, 9pt"/>
+      <TextObject Name="Text114" Left="369.31" Top="635.47" Width="45.36" Height="15.12" Text="[umumi.29]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text115" Left="420.34" Top="635.47" Width="49.14" Height="15.12" Text="[auditoriya.29]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text116" Left="475.9" Top="635.47" Width="83.16" Height="15.12" Text="[qiymet.29]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text117" Left="97.52" Top="653.48" Width="268.38" Height="15.12" Text="[title.30]" Font="Arial, 9pt"/>
+      <TextObject Name="Text118" Left="369.31" Top="653.48" Width="45.36" Height="15.12" Text="[umumi.30]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text119" Left="420.34" Top="653.48" Width="49.14" Height="15.12" Text="[auditoriya.30]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text120" Left="475.9" Top="653.48" Width="83.16" Height="15.12" Text="[qiymet.30]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text121" Left="97.52" Top="671.38" Width="268.38" Height="15.12" Text="[title.31]" Font="Arial, 9pt"/>
+      <TextObject Name="Text122" Left="369.31" Top="671.38" Width="45.36" Height="15.12" Text="[umumi.31]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text123" Left="420.34" Top="671.38" Width="49.14" Height="15.12" Text="[auditoriya.31]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text124" Left="475.9" Top="671.38" Width="83.16" Height="15.12" Text="[qiymet.31]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text125" Left="97.52" Top="689.39" Width="268.38" Height="15.12" Text="[title.32]" Font="Arial, 9pt"/>
+      <TextObject Name="Text126" Left="369.31" Top="689.39" Width="45.36" Height="15.12" Text="[umumi.32]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text127" Left="420.34" Top="689.39" Width="49.14" Height="15.12" Text="[auditoriya.32]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text128" Left="475.9" Top="689.39" Width="83.16" Height="15.12" Text="[qiymet.32]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text129" Left="97.52" Top="706.95" Width="268.38" Height="15.12" Text="[title.33]" Font="Arial, 9pt"/>
+      <TextObject Name="Text130" Left="369.31" Top="706.95" Width="45.36" Height="15.12" Text="[umumi.33]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text131" Left="420.34" Top="706.95" Width="49.14" Height="15.12" Text="[auditoriya.33]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text132" Left="476.25" Top="706.95" Width="83.16" Height="15.12" Text="[qiymet.33]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text133" Left="97.52" Top="723.85" Width="268.38" Height="15.12" Text="[title.34]" Font="Arial, 9pt"/>
+      <TextObject Name="Text134" Left="369.31" Top="723.85" Width="45.36" Height="15.12" Text="[umumi.34]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text135" Left="420.34" Top="723.85" Width="49.14" Height="15.12" Text="[auditoriya.34]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text136" Left="476.25" Top="723.85" Width="83.16" Height="15.12" Text="[qiymet.34]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text137" Left="97.52" Top="739.86" Width="268.38" Height="15.12" Text="[title.35]" Font="Arial, 9pt"/>
+      <TextObject Name="Text138" Left="369.31" Top="739.86" Width="45.36" Height="15.12" Text="[umumi.35]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text139" Left="420.34" Top="739.86" Width="49.14" Height="15.12" Text="[auditoriya.35]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text140" Left="476.25" Top="739.86" Width="83.16" Height="15.12" Text="[qiymet.35]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text141" Left="627.48" Top="114.91" Width="268.38" Height="15.12" Text="[title.36]" Font="Arial, 9pt"/>
+      <TextObject Name="Text142" Left="899.26" Top="114.91" Width="45.36" Height="15.12" Text="[umumi.36]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text143" Left="950.29" Top="114.91" Width="49.14" Height="15.12" Text="[auditoriya.36]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text144" Left="1005.86" Top="114.91" Width="83.16" Height="15.12" Text="[qiymet.36]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text145" Left="627.48" Top="132.06" Width="268.38" Height="15.12" Text="[title.37]" Font="Arial, 9pt"/>
+      <TextObject Name="Text146" Left="899.26" Top="132.06" Width="45.36" Height="15.12" Text="[umumi.37]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text147" Left="950.29" Top="132.06" Width="49.14" Height="15.12" Text="[auditoriya.37]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text148" Left="1005.86" Top="132.06" Width="83.16" Height="15.12" Text="[qiymet.37]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text149" Left="627.48" Top="148.96" Width="268.38" Height="15.12" Text="[title.38]" Font="Arial, 9pt"/>
+      <TextObject Name="Text150" Left="899.26" Top="148.96" Width="45.36" Height="15.12" Text="[umumi.38]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text151" Left="950.29" Top="148.96" Width="49.14" Height="15.12" Text="[auditoriya.38]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text152" Left="1005.86" Top="148.96" Width="83.16" Height="15.12" Text="[qiymet.38]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text153" Left="627.48" Top="166.97" Width="268.38" Height="15.12" Text="[title.39]" Font="Arial, 9pt"/>
+      <TextObject Name="Text154" Left="899.26" Top="166.97" Width="45.36" Height="15.12" Text="[umumi.39]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text155" Left="950.29" Top="166.97" Width="49.14" Height="15.12" Text="[auditoriya.39]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text156" Left="1005.86" Top="166.97" Width="83.16" Height="15.12" Text="[qiymet.39]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text157" Left="627.48" Top="184.31" Width="268.38" Height="15.12" Text="[title.40]" Font="Arial, 9pt"/>
+      <TextObject Name="Text158" Left="899.26" Top="184.31" Width="45.36" Height="15.12" Text="[umumi.40]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text159" Left="950.29" Top="184.31" Width="49.14" Height="15.12" Text="[auditoriya.40]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text160" Left="1005.86" Top="184.31" Width="83.16" Height="15.12" Text="[qiymet.40]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text161" Left="627.48" Top="201.32" Width="268.38" Height="15.12" Text="[title.41]" Font="Arial, 9pt"/>
+      <TextObject Name="Text162" Left="899.26" Top="201.32" Width="45.36" Height="15.12" Text="[umumi.41]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text163" Left="950.29" Top="201.32" Width="49.14" Height="15.12" Text="[auditoriya.41]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text164" Left="1005.86" Top="201.32" Width="83.16" Height="15.12" Text="[qiymet.41]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text165" Left="627.48" Top="218.22" Width="268.38" Height="15.12" Text="[title.42]" Font="Arial, 9pt"/>
+      <TextObject Name="Text166" Left="899.26" Top="218.22" Width="45.36" Height="15.12" Text="[umumi.42]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text167" Left="950.29" Top="218.22" Width="49.14" Height="15.12" Text="[auditoriya.42]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text168" Left="1005.86" Top="218.22" Width="83.16" Height="15.12" Text="[qiymet.42]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text169" Left="627.48" Top="235.23" Width="268.38" Height="15.12" Text="[title.43]" Font="Arial, 9pt"/>
+      <TextObject Name="Text170" Left="899.26" Top="235.23" Width="45.36" Height="15.12" Text="[umumi.43]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text171" Left="950.29" Top="235.23" Width="49.14" Height="15.12" Text="[auditoriya.43]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text172" Left="1005.86" Top="235.23" Width="83.16" Height="15.12" Text="[qiymet.43]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text173" Left="627.48" Top="252.46" Width="268.38" Height="15.12" Text="[title.44]" Font="Arial, 9pt"/>
+      <TextObject Name="Text174" Left="899.26" Top="252.46" Width="45.36" Height="15.12" Text="[umumi.44]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text175" Left="950.29" Top="252.46" Width="49.14" Height="15.12" Text="[auditoriya.44]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text176" Left="1005.86" Top="252.46" Width="83.16" Height="15.12" Text="[qiymet.44]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text177" Left="627.48" Top="270.47" Width="268.38" Height="15.12" Text="[title.45]" Font="Arial, 9pt"/>
+      <TextObject Name="Text178" Left="899.26" Top="270.47" Width="45.36" Height="15.12" Text="[umumi.45]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text179" Left="950.29" Top="270.47" Width="49.14" Height="15.12" Text="[auditoriya.45]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text180" Left="1005.86" Top="270.47" Width="83.16" Height="15.12" Text="[qiymet.45]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text181" Left="627.48" Top="288.37" Width="268.38" Height="15.12" Text="[title.46]" Font="Arial, 9pt"/>
+      <TextObject Name="Text182" Left="899.26" Top="288.37" Width="45.36" Height="15.12" Text="[umumi.46]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text183" Left="950.29" Top="288.37" Width="49.14" Height="15.12" Text="[auditoriya.46]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text184" Left="1005.86" Top="288.37" Width="83.16" Height="15.12" Text="[qiymet.46]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text185" Left="627.48" Top="305.38" Width="268.38" Height="15.12" Text="[title.47]" Font="Arial, 9pt"/>
+      <TextObject Name="Text186" Left="899.26" Top="305.38" Width="45.36" Height="15.12" Text="[umumi.47]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text187" Left="950.29" Top="305.38" Width="49.14" Height="15.12" Text="[auditoriya.47]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text188" Left="1005.86" Top="305.38" Width="83.16" Height="15.12" Text="[qiymet.47]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text189" Left="627.48" Top="320.72" Width="268.38" Height="15.12" Text="[title.48]" Font="Arial, 9pt"/>
+      <TextObject Name="Text190" Left="899.26" Top="320.72" Width="45.36" Height="15.12" Text="[umumi.48]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text191" Left="950.29" Top="320.72" Width="49.14" Height="15.12" Text="[auditoriya.48]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text192" Left="1005.86" Top="320.72" Width="83.16" Height="15.12" Text="[qiymet.48]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text193" Left="627.48" Top="337.73" Width="268.38" Height="15.12" Text="[title.49]" Font="Arial, 9pt"/>
+      <TextObject Name="Text194" Left="899.26" Top="337.73" Width="45.36" Height="15.12" Text="[umumi.49]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text195" Left="950.29" Top="337.73" Width="49.14" Height="15.12" Text="[auditoriya.49]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text196" Left="1005.86" Top="337.73" Width="83.16" Height="15.12" Text="[qiymet.49]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text197" Left="627.48" Top="354.63" Width="268.38" Height="15.12" Text="[title.50]" Font="Arial, 9pt"/>
+      <TextObject Name="Text198" Left="899.26" Top="354.63" Width="45.36" Height="15.12" Text="[umumi.50]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text199" Left="950.29" Top="354.63" Width="49.14" Height="15.12" Text="[auditoriya.50]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text200" Left="1005.86" Top="354.63" Width="83.16" Height="15.12" Text="[qiymet.50]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text201" Left="627.48" Top="371.64" Width="268.38" Height="15.12" Text="[title.51]" Font="Arial, 9pt"/>
+      <TextObject Name="Text202" Left="899.26" Top="371.64" Width="45.36" Height="15.12" Text="[umumi.51]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text203" Left="950.29" Top="371.64" Width="49.14" Height="15.12" Text="[auditoriya.51]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text204" Left="1005.86" Top="371.64" Width="83.16" Height="15.12" Text="[qiymet.51]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text205" Left="627.48" Top="389.31" Width="268.38" Height="15.12" Text="[title.52]" Font="Arial, 9pt"/>
+      <TextObject Name="Text206" Left="899.26" Top="389.31" Width="45.36" Height="15.12" Text="[umumi.52]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text207" Left="950.29" Top="389.31" Width="49.14" Height="15.12" Text="[auditoriya.52]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text208" Left="1005.86" Top="389.31" Width="83.16" Height="15.12" Text="[qiymet.52]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text209" Left="627.48" Top="406.32" Width="268.38" Height="15.12" Text="[title.53]" Font="Arial, 9pt"/>
+      <TextObject Name="Text210" Left="899.26" Top="406.32" Width="45.36" Height="15.12" Text="[umumi.53]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text211" Left="950.29" Top="406.32" Width="49.14" Height="15.12" Text="[auditoriya.53]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text212" Left="1005.86" Top="406.32" Width="83.16" Height="15.12" Text="[qiymet.53]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text213" Left="627.48" Top="423.22" Width="268.38" Height="15.12" Text="[title.54]" Font="Arial, 9pt"/>
+      <TextObject Name="Text214" Left="899.26" Top="423.22" Width="45.36" Height="15.12" Text="[umumi.54]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text215" Left="950.29" Top="423.22" Width="49.14" Height="15.12" Text="[auditoriya.54]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text216" Left="1005.86" Top="423.22" Width="83.16" Height="15.12" Text="[qiymet.54]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text217" Left="627.48" Top="440.23" Width="268.38" Height="15.12" Text="[title.55]" Font="Arial, 9pt"/>
+      <TextObject Name="Text218" Left="899.26" Top="440.23" Width="45.36" Height="15.12" Text="[umumi.55]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text219" Left="950.29" Top="440.23" Width="49.14" Height="15.12" Text="[auditoriya.55]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text220" Left="1005.86" Top="440.23" Width="83.16" Height="15.12" Text="[qiymet.55]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text221" Left="627.48" Top="457.57" Width="268.38" Height="15.12" Text="[title.56]" Font="Arial, 9pt"/>
+      <TextObject Name="Text222" Left="899.26" Top="457.57" Width="45.36" Height="15.12" Text="[umumi.56]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text223" Left="950.29" Top="457.57" Width="49.14" Height="15.12" Text="[auditoriya.56]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text224" Left="1005.86" Top="457.57" Width="83.16" Height="15.12" Text="[qiymet.56]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text225" Left="627.48" Top="474.58" Width="268.38" Height="15.12" Text="[title.57]" Font="Arial, 9pt"/>
+      <TextObject Name="Text226" Left="899.26" Top="474.58" Width="45.36" Height="15.12" Text="[umumi.57]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text227" Left="950.29" Top="474.58" Width="49.14" Height="15.12" Text="[auditoriya.57]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text228" Left="1005.86" Top="474.58" Width="83.16" Height="15.12" Text="[qiymet.57]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text229" Left="627.48" Top="492.48" Width="268.38" Height="15.12" Text="[title.58]" Font="Arial, 9pt"/>
+      <TextObject Name="Text230" Left="899.26" Top="492.48" Width="45.36" Height="15.12" Text="[umumi.58]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text231" Left="950.29" Top="492.48" Width="49.14" Height="15.12" Text="[auditoriya.58]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text232" Left="1005.86" Top="492.48" Width="83.16" Height="15.12" Text="[qiymet.58]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text233" Left="627.48" Top="510.49" Width="268.38" Height="15.12" Text="[title.59]" Font="Arial, 9pt"/>
+      <TextObject Name="Text234" Left="899.26" Top="510.49" Width="45.36" Height="15.12" Text="[umumi.59]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text235" Left="950.29" Top="510.49" Width="49.14" Height="15.12" Text="[auditoriya.59]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text236" Left="1005.86" Top="510.49" Width="83.16" Height="15.12" Text="[qiymet.59]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text237" Left="627.48" Top="527.72" Width="268.38" Height="15.12" Text="[title.60]" Font="Arial, 9pt"/>
+      <TextObject Name="Text238" Left="899.26" Top="527.72" Width="45.36" Height="15.12" Text="[umumi.60]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text239" Left="950.29" Top="527.72" Width="49.14" Height="15.12" Text="[auditoriya.60]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text240" Left="1005.86" Top="527.72" Width="83.16" Height="15.12" Text="[qiymet.60]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text241" Left="627.48" Top="544.73" Width="268.38" Height="15.12" Text="[title.61]" Font="Arial, 9pt"/>
+      <TextObject Name="Text242" Left="899.26" Top="544.73" Width="45.36" Height="15.12" Text="[umumi.61]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text243" Left="950.29" Top="544.73" Width="49.14" Height="15.12" Text="[auditoriya.61]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text244" Left="1005.86" Top="544.73" Width="83.16" Height="15.12" Text="[qiymet.61]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text245" Left="627.48" Top="561.63" Width="268.38" Height="15.12" Text="[title.62]" Font="Arial, 9pt"/>
+      <TextObject Name="Text246" Left="899.26" Top="561.63" Width="45.36" Height="15.12" Text="[umumi.62]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text247" Left="950.29" Top="561.63" Width="49.14" Height="15.12" Text="[auditoriya.62]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text248" Left="1005.86" Top="561.63" Width="83.16" Height="15.12" Text="[qiymet.62]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text249" Left="627.48" Top="578.64" Width="268.38" Height="15.12" Text="[title.63]" Font="Arial, 9pt"/>
+      <TextObject Name="Text250" Left="899.26" Top="578.64" Width="45.36" Height="15.12" Text="[umumi.63]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text251" Left="950.29" Top="578.64" Width="49.14" Height="15.12" Text="[auditoriya.63]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text252" Left="1005.86" Top="578.64" Width="83.16" Height="15.12" Text="[qiymet.63]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text253" Left="627.48" Top="595.98" Width="268.38" Height="15.12" Text="[title.64]" Font="Arial, 9pt"/>
+      <TextObject Name="Text254" Left="899.26" Top="595.98" Width="45.36" Height="15.12" Text="[umumi.64]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text255" Left="950.29" Top="595.98" Width="49.14" Height="15.12" Text="[auditoriya.64]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text256" Left="1005.86" Top="595.98" Width="83.16" Height="15.12" Text="[qiymet.64]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text257" Left="627.48" Top="613.99" Width="268.38" Height="15.12" Text="[title.65]" Font="Arial, 9pt"/>
+      <TextObject Name="Text258" Left="899.26" Top="613.99" Width="45.36" Height="15.12" Text="[umumi.65]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text259" Left="950.29" Top="613.99" Width="49.14" Height="15.12" Text="[auditoriya.65]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text260" Left="1005.86" Top="613.99" Width="83.16" Height="15.12" Text="[qiymet.65]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text261" Left="627.48" Top="631.89" Width="268.38" Height="15.12" Text="[title.66]" Font="Arial, 9pt"/>
+      <TextObject Name="Text262" Left="899.26" Top="631.89" Width="45.36" Height="15.12" Text="[umumi.66]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text263" Left="950.29" Top="631.89" Width="49.14" Height="15.12" Text="[auditoriya.66]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text264" Left="1005.86" Top="631.89" Width="83.16" Height="15.12" Text="[qiymet.66]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text265" Left="627.48" Top="649.9" Width="268.38" Height="15.12" Text="[title.67]" Font="Arial, 9pt"/>
+      <TextObject Name="Text266" Left="899.26" Top="649.9" Width="45.36" Height="15.12" Text="[umumi.67]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text267" Left="950.29" Top="649.9" Width="49.14" Height="15.12" Text="[auditoriya.67]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text268" Left="1005.86" Top="649.9" Width="83.16" Height="15.12" Text="[qiymet.67]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text269" Left="627.48" Top="667.46" Width="268.38" Height="15.12" Text="[title.68]" Font="Arial, 9pt"/>
+      <TextObject Name="Text270" Left="899.26" Top="667.46" Width="45.36" Height="15.12" Text="[umumi.67]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text271" Left="950.29" Top="667.46" Width="49.14" Height="15.12" Text="[auditoriya.68]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text272" Left="1005.86" Top="667.46" Width="83.16" Height="15.12" Text="[qiymet.68]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text273" Left="627.48" Top="685.36" Width="268.38" Height="15.12" Text="[title.69]" Font="Arial, 9pt"/>
+      <TextObject Name="Text274" Left="899.26" Top="685.36" Width="45.36" Height="15.12" Text="[umumi.69]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text275" Left="950.29" Top="685.36" Width="49.14" Height="15.12" Text="[auditoriya.69]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text276" Left="1005.86" Top="685.36" Width="83.16" Height="15.12" Text="[qiymet.69]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text277" Left="627.48" Top="702.32" Width="268.38" Height="15.12" Text="[title.70]" Font="Arial, 9pt"/>
+      <TextObject Name="Text278" Left="899.26" Top="702.37" Width="45.36" Height="15.12" Text="[umumi.70]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text279" Left="950.29" Top="702.37" Width="49.14" Height="15.12" Text="[auditoriya.70]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text280" Left="1005.86" Top="702.37" Width="83.16" Height="15.12" Text="[qiymet.70]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text281" Left="627.48" Top="719.2" Width="268.38" Height="15.12" Text="[title.71]" Font="Arial, 9pt"/>
+      <TextObject Name="Text282" Left="899.48" Top="719.2" Width="45.36" Height="15.12" Text="[umumi.71]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text283" Left="950.29" Top="719.2" Width="49.14" Height="15.12" Text="[auditoriya.71]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text284" Left="1006.08" Top="719.2" Width="83.16" Height="15.12" Text="[qiymet.71]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text285" Left="627.48" Top="736.1" Width="268.38" Height="15.12" Text="[title.72]" Font="Arial, 9pt"/>
+      <TextObject Name="Text286" Left="899.64" Top="736.1" Width="45.36" Height="15.12" Text="[umumi.72]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text287" Left="950.29" Top="736.1" Width="49.14" Height="15.12" Text="[auditoriya.72]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text288" Left="1006.3" Top="736.1" Width="83.16" Height="15.12" Text="[qiymet.72]" HorzAlign="Center" Font="Arial, 9pt"/>
+    </ReportTitleBand>
+  </ReportPage>
+  <ReportPage Name="Page2" Landscape="true" PaperWidth="289" PaperHeight="203" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0">
+    <ReportTitleBand Name="ReportTitle2" Width="1092.42" Height="763.56">
+      <TextObject Name="Text289" Left="49.6" Top="105.84" Width="268.38" Height="15.12" Text="[title.73]" Font="Arial, 9pt"/>
+      <TextObject Name="Text290" Left="321.38" Top="105.84" Width="45.36" Height="15.12" Text="[umumi.73]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text291" Left="372.41" Top="105.84" Width="49.14" Height="15.12" Text="[auditoriya.73]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text292" Left="427.98" Top="105.84" Width="83.16" Height="15.12" Text="[qiymet.73]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text293" Left="49.6" Top="122.55" Width="268.38" Height="15.12" Text="[title.74]" Font="Arial, 9pt"/>
+      <TextObject Name="Text294" Left="321.38" Top="122.55" Width="45.36" Height="15.12" Text="[umumi.74]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text295" Left="372.41" Top="122.55" Width="49.14" Height="15.12" Text="[auditoriya.74]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text296" Left="427.98" Top="122.55" Width="83.16" Height="15.12" Text="[qiymet.74]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text297" Left="49.6" Top="140.45" Width="268.38" Height="15.12" Text="[title.75]" Font="Arial, 9pt"/>
+      <TextObject Name="Text298" Left="321.38" Top="140.45" Width="45.36" Height="15.12" Text="[umumi.75]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text299" Left="372.41" Top="140.45" Width="49.14" Height="15.12" Text="[auditoriya.75]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text300" Left="427.98" Top="140.45" Width="83.16" Height="15.12" Text="[qiymet.75]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text301" Left="49.6" Top="158.46" Width="268.38" Height="15.12" Text="[title.76]" Font="Arial, 9pt"/>
+      <TextObject Name="Text302" Left="321.38" Top="158.46" Width="45.36" Height="15.12" Text="[umumi.76]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text303" Left="372.41" Top="158.46" Width="49.14" Height="15.12" Text="[auditoriya.76]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text304" Left="427.98" Top="158.46" Width="83.16" Height="15.12" Text="[qiymet.76]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text305" Left="49.6" Top="175.8" Width="268.38" Height="15.12" Text="[title.77]" Font="Arial, 9pt"/>
+      <TextObject Name="Text306" Left="321.38" Top="175.8" Width="45.36" Height="15.12" Text="[umumi.77]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text307" Left="372.41" Top="175.8" Width="49.14" Height="15.12" Text="[auditoriya.77]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text308" Left="427.98" Top="175.8" Width="83.16" Height="15.12" Text="[qiymet.77]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text309" Left="49.6" Top="192.81" Width="268.38" Height="15.12" Text="[title.78]" Font="Arial, 9pt"/>
+      <TextObject Name="Text310" Left="321.38" Top="192.81" Width="45.36" Height="15.12" Text="[umumi.78]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text311" Left="372.41" Top="192.81" Width="49.14" Height="15.12" Text="[auditoriya.78]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text312" Left="427.98" Top="192.81" Width="83.16" Height="15.12" Text="[qiymet.78]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text313" Left="49.6" Top="209.71" Width="268.38" Height="15.12" Text="[title.79]" Font="Arial, 9pt"/>
+      <TextObject Name="Text314" Left="321.38" Top="209.71" Width="45.36" Height="15.12" Text="[umumi.79]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text315" Left="372.41" Top="209.71" Width="49.14" Height="15.12" Text="[auditoriya.79]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text316" Left="427.98" Top="209.71" Width="83.16" Height="15.12" Text="[qiymet.79]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text317" Left="49.6" Top="226.72" Width="268.38" Height="15.12" Text="[title.80]" Font="Arial, 9pt"/>
+      <TextObject Name="Text318" Left="321.38" Top="226.72" Width="45.36" Height="15.12" Text="[umumi.80]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text319" Left="372.41" Top="226.72" Width="49.14" Height="15.12" Text="[auditoriya.80]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text320" Left="427.98" Top="226.72" Width="83.16" Height="15.12" Text="[qiymet.80]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text321" Left="49.6" Top="243.95" Width="268.38" Height="15.12" Text="[title.81]" Font="Arial, 9pt"/>
+      <TextObject Name="Text322" Left="321.38" Top="243.95" Width="45.36" Height="15.12" Text="[umumi.81]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text323" Left="372.41" Top="243.95" Width="49.14" Height="15.12" Text="[auditoriya.81]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text324" Left="427.98" Top="243.95" Width="83.16" Height="15.12" Text="[qiymet.81]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text325" Left="49.6" Top="260.96" Width="268.38" Height="15.12" Text="[title.82]" Font="Arial, 9pt"/>
+      <TextObject Name="Text326" Left="321.38" Top="260.96" Width="45.36" Height="15.12" Text="[umumi.82]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text327" Left="372.41" Top="260.96" Width="49.14" Height="15.12" Text="[auditoriya.82]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text328" Left="427.98" Top="260.96" Width="83.16" Height="15.12" Text="[qiymet.82]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text329" Left="49.6" Top="277.86" Width="268.38" Height="15.12" Text="[title.83]" Font="Arial, 9pt"/>
+      <TextObject Name="Text330" Left="321.38" Top="277.86" Width="45.36" Height="15.12" Text="[umumi.83]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text331" Left="372.41" Top="277.86" Width="49.14" Height="15.12" Text="[auditoriya.83]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text332" Left="427.98" Top="277.86" Width="83.16" Height="15.12" Text="[qiymet.83]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text333" Left="49.6" Top="294.87" Width="268.38" Height="15.12" Text="[title.84]" Font="Arial, 9pt"/>
+      <TextObject Name="Text334" Left="321.38" Top="294.87" Width="45.36" Height="15.12" Text="[umumi.84]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text335" Left="372.41" Top="294.87" Width="49.14" Height="15.12" Text="[auditoriya.84]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text336" Left="427.98" Top="294.87" Width="83.16" Height="15.12" Text="[qiymet.84]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text337" Left="49.6" Top="312.21" Width="268.38" Height="15.12" Text="[title.85]" Font="Arial, 9pt"/>
+      <TextObject Name="Text338" Left="321.38" Top="312.21" Width="45.36" Height="15.12" Text="[umumi.85]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text339" Left="372.41" Top="312.21" Width="49.14" Height="15.12" Text="[auditoriya.85]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text340" Left="427.98" Top="312.21" Width="83.16" Height="15.12" Text="[qiymet.85]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text341" Left="49.6" Top="329.22" Width="268.38" Height="15.12" Text="[title.86]" Font="Arial, 9pt"/>
+      <TextObject Name="Text342" Left="321.38" Top="329.22" Width="45.36" Height="15.12" Text="[umumi.86]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text343" Left="372.41" Top="329.22" Width="49.14" Height="15.12" Text="[auditoriya.86]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text344" Left="427.98" Top="329.22" Width="83.16" Height="15.12" Text="[qiymet.86]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text345" Left="49.6" Top="346.12" Width="268.38" Height="15.12" Text="[title.87]" Font="Arial, 9pt"/>
+      <TextObject Name="Text346" Left="321.38" Top="346.12" Width="45.36" Height="15.12" Text="[umumi.87]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text347" Left="372.41" Top="346.12" Width="49.14" Height="15.12" Text="[auditoriya.87]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text348" Left="427.98" Top="346.12" Width="83.16" Height="15.12" Text="[qiymet.87]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text349" Left="49.6" Top="363.13" Width="268.38" Height="15.12" Text="[title.88]" Font="Arial, 9pt"/>
+      <TextObject Name="Text350" Left="321.38" Top="363.13" Width="45.36" Height="15.12" Text="[umumi.88]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text351" Left="372.41" Top="363.13" Width="49.14" Height="15.12" Text="[auditoriya.88]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text352" Left="427.98" Top="363.13" Width="83.16" Height="15.12" Text="[qiymet.88]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text353" Left="49.6" Top="379.8" Width="268.38" Height="15.12" Text="[title.89]" Font="Arial, 9pt"/>
+      <TextObject Name="Text354" Left="321.38" Top="379.8" Width="45.36" Height="15.12" Text="[umumi.89]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text355" Left="372.41" Top="379.8" Width="49.14" Height="15.12" Text="[auditoriya.89]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text356" Left="427.98" Top="379.8" Width="83.16" Height="15.12" Text="[qiymet.89]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text357" Left="49.6" Top="396.81" Width="268.38" Height="15.12" Text="[title.90]" Font="Arial, 9pt"/>
+      <TextObject Name="Text358" Left="321.38" Top="396.81" Width="45.36" Height="15.12" Text="[umumi.90]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text359" Left="372.41" Top="396.81" Width="49.14" Height="15.12" Text="[auditoriya.90]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text360" Left="427.98" Top="396.81" Width="83.16" Height="15.12" Text="[qiymet.90]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text361" Left="49.6" Top="413.71" Width="268.38" Height="15.12" Text="[title.91]" Font="Arial, 9pt"/>
+      <TextObject Name="Text362" Left="321.38" Top="413.71" Width="45.36" Height="15.12" Text="[umumi.91]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text363" Left="372.41" Top="413.71" Width="49.14" Height="15.12" Text="[auditoriya.91]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text364" Left="427.98" Top="413.71" Width="83.16" Height="15.12" Text="[qiymet.91]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text365" Left="49.6" Top="430.72" Width="268.38" Height="15.12" Text="[title.92]" Font="Arial, 9pt"/>
+      <TextObject Name="Text366" Left="321.38" Top="430.72" Width="45.36" Height="15.12" Text="[umumi.92]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text367" Left="372.41" Top="430.72" Width="49.14" Height="15.12" Text="[auditoriya.92]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text368" Left="427.98" Top="430.72" Width="83.16" Height="15.12" Text="[qiymet.92]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text369" Left="49.6" Top="448.06" Width="268.38" Height="15.12" Text="[title.93]" Font="Arial, 9pt"/>
+      <TextObject Name="Text370" Left="321.38" Top="448.06" Width="45.36" Height="15.12" Text="[umumi.93]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text371" Left="372.41" Top="448.06" Width="49.14" Height="15.12" Text="[auditoriya.93]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text372" Left="427.98" Top="448.06" Width="83.16" Height="15.12" Text="[qiymet.93]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text373" Left="49.6" Top="465.07" Width="268.38" Height="15.12" Text="[title.94]" Font="Arial, 9pt"/>
+      <TextObject Name="Text374" Left="321.38" Top="465.07" Width="45.36" Height="15.12" Text="[umumi.94]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text375" Left="372.41" Top="465.07" Width="49.14" Height="15.12" Text="[auditoriya.94]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text376" Left="427.98" Top="465.07" Width="83.16" Height="15.12" Text="[qiymet.94]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text377" Left="49.6" Top="482.97" Width="268.38" Height="15.12" Text="[title.95]" Font="Arial, 9pt"/>
+      <TextObject Name="Text378" Left="321.38" Top="482.97" Width="45.36" Height="15.12" Text="[umumi.95]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text379" Left="372.41" Top="482.97" Width="49.14" Height="15.12" Text="[auditoriya.95]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text380" Left="427.98" Top="482.97" Width="83.16" Height="15.12" Text="[qiymet.95]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text381" Left="49.6" Top="500.98" Width="268.38" Height="15.12" Text="[title.96]" Font="Arial, 9pt"/>
+      <TextObject Name="Text382" Left="321.38" Top="500.98" Width="45.36" Height="15.12" Text="[umumi.96]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text383" Left="372.41" Top="500.98" Width="49.14" Height="15.12" Text="[auditoriya.96]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text384" Left="427.98" Top="500.98" Width="83.16" Height="15.12" Text="[qiymet.96]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text385" Left="49.6" Top="518.21" Width="268.38" Height="15.12" Text="[title.97]" Font="Arial, 9pt"/>
+      <TextObject Name="Text386" Left="321.38" Top="518.21" Width="45.36" Height="15.12" Text="[umumi.97]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text387" Left="372.41" Top="518.21" Width="49.14" Height="15.12" Text="[auditoriya.97]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text388" Left="427.98" Top="518.21" Width="83.16" Height="15.12" Text="[qiymet.97]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text389" Left="49.6" Top="535.22" Width="268.38" Height="15.12" Text="[title.98]" Font="Arial, 9pt"/>
+      <TextObject Name="Text390" Left="321.38" Top="535.22" Width="45.36" Height="15.12" Text="[umumi.98]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text391" Left="372.41" Top="535.22" Width="49.14" Height="15.12" Text="[auditoriya.98]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text392" Left="427.98" Top="535.22" Width="83.16" Height="15.12" Text="[qiymet.98]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text393" Left="49.6" Top="552.12" Width="268.38" Height="15.12" Text="[title.99]" Font="Arial, 9pt"/>
+      <TextObject Name="Text394" Left="321.38" Top="552.12" Width="45.36" Height="15.12" Text="[umumi.99]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text395" Left="372.41" Top="552.12" Width="49.14" Height="15.12" Text="[auditoriya.99]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text396" Left="427.98" Top="552.12" Width="83.16" Height="15.12" Text="[qiymet.99]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text397" Left="49.6" Top="569.13" Width="268.38" Height="15.12" Text="[title.100]" Font="Arial, 9pt"/>
+      <TextObject Name="Text398" Left="321.38" Top="569.13" Width="45.36" Height="15.12" Text="[umumi.100]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text399" Left="372.41" Top="569.13" Width="49.14" Height="15.12" Text="[auditoriya.100]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text400" Left="427.98" Top="569.13" Width="83.16" Height="15.12" Text="[qiymet.100]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text401" Left="49.6" Top="586.47" Width="268.38" Height="15.12" Text="[title.101]" Font="Arial, 9pt"/>
+      <TextObject Name="Text402" Left="321.38" Top="586.47" Width="45.36" Height="15.12" Text="[umumi.101]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text403" Left="372.41" Top="586.47" Width="49.14" Height="15.12" Text="[auditoriya.101]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text404" Left="427.98" Top="586.47" Width="83.16" Height="15.12" Text="[qiymet.101]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text405" Left="49.6" Top="604.48" Width="268.38" Height="15.12" Text="[title.102]" Font="Arial, 9pt"/>
+      <TextObject Name="Text406" Left="321.38" Top="604.48" Width="45.36" Height="15.12" Text="[umumi.102]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text407" Left="372.41" Top="604.48" Width="49.14" Height="15.12" Text="[auditoriya.102]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text408" Left="427.98" Top="604.48" Width="83.16" Height="15.12" Text="[qiymet.102]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text409" Left="49.6" Top="622.38" Width="268.38" Height="15.12" Text="[title.103]" Font="Arial, 9pt"/>
+      <TextObject Name="Text410" Left="321.38" Top="622.38" Width="45.36" Height="15.12" Text="[umumi.103]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text411" Left="372.41" Top="622.38" Width="49.14" Height="15.12" Text="[auditoriya.103]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text412" Left="427.98" Top="622.38" Width="83.16" Height="15.12" Text="[qiymet.103]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text413" Left="49.6" Top="640.39" Width="268.38" Height="15.12" Text="[title.104]" Font="Arial, 9pt"/>
+      <TextObject Name="Text414" Left="321.38" Top="640.39" Width="45.36" Height="15.12" Text="[umumi.104]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text415" Left="372.41" Top="640.39" Width="49.14" Height="15.12" Text="[auditoriya.104]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text416" Left="427.98" Top="640.39" Width="83.16" Height="15.12" Text="[qiymet.104]" HorzAlign="Center" Font="Arial, 9pt"/>
+      <TextObject Name="Text417" Left="567.76" Top="192.78" Width="215.46" Height="18.9" Text="[info.full_name]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text420" Left="653.56" Top="249.48" Width="128.52" Height="18.9" Text="[info.birth_date]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text421" Left="567.76" Top="291.06" Width="215.46" Height="18.9" Text="[info.attestat]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text423" Left="567.76" Top="453.6" Width="215.46" Height="18.9" Text="[info.entry_year]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text424" Left="567.76" Top="491.4" Width="215.46" Height="22.68" Text="Qafqaz Universiteti" HorzAlign="Center" Font="Arial Black, 12pt, style=Italic"/>
+      <TextObject Name="Text426" Left="568.89" Top="336.42" Width="215.46" Height="18.9" Text="[info.3]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text427" Left="567.76" Top="378" Width="215.46" Height="17.01" Text="[info.4]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text428" Left="563.98" Top="589.68" Width="215.46" Height="18.52" Text="[info.5]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text431" Left="565.11" Top="642.6" Width="215.46" Height="18.52" Text="[info.6]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text432" Left="564.35" Top="682.29" Width="219.24" Height="18.52" Text="[info.istiqamet]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text433" Left="567.76" Top="716.31" Width="211.68" Height="18.52" Text="[info.7]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text434" Left="843.7" Top="544.32" Width="215.46" Height="18.52" Text="[info.1]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text435" Left="847.48" Top="642.6" Width="215.46" Height="18.52" Text="[info.2]" HorzAlign="Center" Font="Arial, 10pt, style=Italic"/>
+      <TextObject Name="Text436" Left="843.7" Top="453.6" Width="215.46" Height="26.08" Text="Qafqaz Universiteti" HorzAlign="Center" Font="Arial Black, 12pt"/>
+    </ReportTitleBand>
+  </ReportPage>
+</Report>

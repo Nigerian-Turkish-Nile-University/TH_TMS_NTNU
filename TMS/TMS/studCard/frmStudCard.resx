@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="dataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>288, 17</value>
+  </metadata>
+  <metadata name="report1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>200, 17</value>
+  </metadata>
+  <data name="report1.ReportResourceString" xml:space="preserve">
+    <value>﻿&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;Report ScriptLanguage="CSharp" ReportInfo.Created="11/16/2009 17:00:21" ReportInfo.Modified="02/19/2014 14:49:45" ReportInfo.CreatorVersion="1.9.1.0"&gt;
+  &lt;Dictionary&gt;
+    &lt;OleDbDataConnection Name="Connection" ConnectionString="rijcmlq+D6ndh9H3C/r0AU5T6Mq4AN1loppxrzoUnv4HPhigeCwQD0XNUHBO9cv0x6ZwGlDovZqxyv7jgRa0ouOD+yq5qtjluBka1xwgE/PJ8YUIe8IRV3MFBkZnyytVyTfs67vT0gRiJlEOOFR064zqWOQLQgiVErmYYUlawCEyTkX12Q="&gt;
+      &lt;TableDataSource Name="Table" DataType="System.Int32" Enabled="true" TableName="Table" SelectCommand="SELECT D.STUD_ID, D.STUDENT, D.FAC, D.DEP_AD_AZ, D.PARENT_INFO_NAME, D.FOTO&amp;#13;&amp;#10;FROM DBMAN.&amp;quot;V_TELEBEBILET&amp;quot; D where d.stud_id = '060404022'"&gt;
+        &lt;Column Name="FOTO" DataType="System.Byte[]" BindableControl="Picture"/&gt;
+        &lt;Column Name="STUD_ID" DataType="System.String"/&gt;
+        &lt;Column Name="STUDENT" DataType="System.String"/&gt;
+        &lt;Column Name="DEP_AD_AZ" DataType="System.String"/&gt;
+        &lt;Column Name="PARENT_INFO_NAME" DataType="System.String"/&gt;
+        &lt;Column Name="FAC" DataType="System.String"/&gt;
+      &lt;/TableDataSource&gt;
+    &lt;/OleDbDataConnection&gt;
+    &lt;TableDataSource Name="V_TELEBEBILET" ReferenceName="dataSet1.V_TELEBEBILET" DataType="System.Int32" Enabled="true"&gt;
+      &lt;Column Name="STUD_ID" DataType="System.String"/&gt;
+      &lt;Column Name="STUDENT" DataType="System.String"/&gt;
+      &lt;Column Name="FAC" DataType="System.String"/&gt;
+      &lt;Column Name="DEP_AD_AZ" DataType="System.String"/&gt;
+      &lt;Column Name="FOTO" DataType="System.Byte[]" BindableControl="Picture"/&gt;
+      &lt;Column Name="DOGYERTAR" DataType="System.String"/&gt;
+      &lt;Column Name="DEP_AD" DataType="System.String"/&gt;
+      &lt;Column Name="PARENT_INFO_NAME" DataType="System.String"/&gt;
+      &lt;Column Name="SOBE" DataType="System.String"/&gt;
+    &lt;/TableDataSource&gt;
+  &lt;/Dictionary&gt;
+  &lt;ReportPage Name="Page1" PaperWidth="85" PaperHeight="54" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0" Columns.Count="2" Columns.Width="97.5" Columns.Positions="0,97.5" Watermark.Enabled="true" Watermark.Text="NatoTechnology" Watermark.TextRotation="Horizontal" Watermark.ShowImageOnTop="true"&gt;
+    &lt;DataBand Name="Data1" Width="368.55" Height="204.12" DataSource="Table"&gt;
+      &lt;PictureObject Name="Picture1" Left="230.58" Top="78.62" Width="89.96" Height="111.13" DataColumn="Table.FOTO"/&gt;
+      &lt;BarcodeObject Name="Barcode1" Left="69.17" Top="168.97" Width="142.13" Height="30.24" AutoSize="false" DataColumn="Table.STUD_ID" ShowText="false"/&gt;
+      &lt;TextObject Name="Text1" Left="71.82" Top="86.94" Width="113.4" Height="18.9" Text="[Table.STUD_ID]" Font="Arial, 9pt, style=Bold"/&gt;
+      &lt;TextObject Name="Text2" Left="71.82" Top="102.06" Width="160.65" Height="18.9" Text="[Table.STUDENT]" Font="Arial, 9pt"/&gt;
+      &lt;TextObject Name="Text3" Left="71.82" Top="117.18" Width="160.65" Height="18.9" Text="[Table.PARENT_INFO_NAME]" Font="Arial, 9pt"/&gt;
+      &lt;TextObject Name="Text4" Left="71.82" Top="147.42" Width="160.65" Height="28.35" Text="[Table.DEP_AD_AZ]" Font="Arial, 8pt"/&gt;
+      &lt;TextObject Name="Text5" Left="71.82" Top="132.3" Width="160.65" Height="18.9" Text="[Table.FAC]" Font="Arial, 9pt"/&gt;
+    &lt;/DataBand&gt;
+  &lt;/ReportPage&gt;
+&lt;/Report&gt;
+</value>
+  </data>
+  <metadata name="dataSet2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>383, 17</value>
+  </metadata>
+</root>

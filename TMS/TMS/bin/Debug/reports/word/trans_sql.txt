@@ -1,0 +1,56 @@
+select i.d_ad_az as ders_ad
+       ,i.teor_s||'+'||i.prat_s as kredi_t
+    ,decode(nvl(a.ort,0),-1,0,-2,0,nvl(a.ort,0))as ort
+       ,t.yil||'-'||to_char(t.yil+1) as ders_il
+       ,case upper('AZ')
+        when 'AZ' then  b.class||'. KURS - '||decode(b.class,1,'1/2',to_char(b.donem))||'. SEMESTR'
+        when 'EN' then  b.class||'. COURSE - '||decode(b.class,1,'1/2',to_char(b.donem))||'. SEMESTER'
+        when 'TR' then  b.class||'. SINIF - '||decode(b.class,1,'1/2',to_char(b.donem))||'. DÖNEM'
+        end as  ders_sin_sem
+             
+        ,decode(b.exam_type,1,0,decode(
+           decode(i.ders_tipi,2,2009,2009||2)/*cari il*/,
+           decode(i.ders_tipi,2,t.yil,t.yil||b.donem),0,decode(a.bas,6,decode(i.ders_tipi,2,(2*(i.teor_s+i.prat_s)),i.teor_s+i.prat_s),0))
+           ) as kredi
+        ,
+        decode(b.exam_type,1,
+           /* eger zakot dersdirse*/
+           decode(
+            decode(i.ders_tipi,2,2009/*cari il*/,2009||2/*cari il*/),
+            decode(i.ders_tipi,2,t.yil,t.yil||b.donem), 
+            /* carilin dersidirse*/
+             decode(a.bas,5,studinfoman.getTransLangOrt('az',1),
+                         6,studinfoman.getTransLangOrt('az',1),studinfoman.getTransLangOrt('az',3)),
+            /* cari ilin dersi deyilse*/             
+            decode(a.bas,5,studinfoman.getTransLangOrt('az',1),
+                         6,studinfoman.getTransLangOrt('az',1),studinfoman.getTransLangOrt('az',4))
+            /* carilin sonu*/
+         )/* eger zakot dersdirse sonu*/
+         ,
+            /*zacot ders deyilse*/        
+            decode(
+            decode(i.ders_tipi,2,2009/*cari il*/,2009||2/*cari il*/),
+            decode(i.ders_tipi,2,t.yil,t.yil||b.donem),
+            /* cari ilin dersidirse*/
+               decode(a.bas,5,studinfoman.getTransLangOrt('az',1),
+                            6,to_char(a.ort),studinfoman.getTransLangOrt('az',3)),
+            /*cari ilin dersi deyilse */             
+            decode(a.bas,5,studinfoman.getTransLangOrt('az',1),
+                         6,to_char(a.ort),studinfoman.getTransLangOrt('az',2))
+            )             
+          /*zacot ders deyilse sonu*/
+         ) as ort_titile
+        ,b.class
+        ,b.donem
+        ,i.ects_kredi
+        ,i.teor_s+i.prat_s as calc_kredi 
+        ,b.ders_b_id
+        ,b.class||b.donem as grp         
+  from dbman.ders_al a, dbman.ders_t t, dbman.ders_bolum b, dbman.ders_info i
+ where i.ders_id = b.ders_id
+   and b.ders_b_id = t.ders_b_id
+   and t.ders_t_id = a.ders_t_id
+   and a.son = 1
+   and (t.yil <= 2009 and b.donem <= 1)
+   and a.stud_id = '050101062'
+   order by b.class,b.donem asc,t.yil

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>C:\Users\enagiyev\Desktop\|ftp://store.qafqaz.local/personnel/Melumatlar/_I_H_M_/|ftp://store.qafqaz.local/personnel/Melumatlar/_I_H_M_/personnel/Melumatlar/_I_H_M_/|ftp://store.qafqaz.local/|ftp://store.qafqaz.local/personnel/Programs/</PublishUrlHistory>
+    <InstallUrlHistory>http://172.16.1.20/</InstallUrlHistory>
+    <SupportUrlHistory>ftp://store.qafqaz.local/personnel/Melumatlar/_I_H_M_/|ftp://store.qafqaz.local/personnel/Programs/|http://172.16.1.20</SupportUrlHistory>
+    <UpdateUrlHistory>http://172.16.1.20/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ReportInfo.Created="11/16/2009 17:00:21" ReportInfo.Modified="10/12/2010 14:49:38" ReportInfo.CreatorVersion="1.0.203.0">
+  <Dictionary>
+    <OleDbDataConnection Name="Connection" ConnectionString="rijcmlq+D6ndh9H3C/r0AU5T6Mq4AN1loppxrzoUnv4HPhigeCwQD0XNUHBO9cv0x6ZwGlDovZqxyv7jgRa0ouOD+yq5qtjluBka1xwgE/PJ8YUIe8IRV3MFBkZnyytVyTfs67vT0gRiJlEOOFR064zqWOQLZ1xwrb7wgp5XaU7xO+TfTg=">
+      <TableDataSource Name="Table" Enabled="true" TableName="Table" SelectCommand="select * from v_emp_card t ">
+        <Column Name="EMP_ID" DataType="System.Decimal"/>
+        <Column Name="FULLNAME" DataType="System.String"/>
+        <Column Name="GOREV" DataType="System.String"/>
+        <Column Name="BIRIM" DataType="System.String"/>
+        <Column Name="VERILME_TARIX" DataType="System.DateTime"/>
+        <Column Name="BIRTH_DATE" DataType="System.DateTime"/>
+        <Column Name="FOTO" DataType="System.Byte[]" BindableControl="Picture"/>
+        <Column Name="ATA_AD" DataType="System.String"/>
+        <Column Name="CARD_NO" DataType="System.String"/>
+        <Column Name="DOGUM_YER" DataType="System.String"/>
+        <Column Name="DEGREE" DataType="System.String"/>
+      </TableDataSource>
+    </OleDbDataConnection>
+    <TableDataSource Name="V_TELEBEBILET" ReferenceName="dataSet1.V_TELEBEBILET" Enabled="true" TableName="V_TELEBEBILET">
+      <Column Name="STUD_ID" DataType="System.String"/>
+      <Column Name="STUDENT" DataType="System.String"/>
+      <Column Name="FAC" DataType="System.String"/>
+      <Column Name="DEP_AD_AZ" DataType="System.String"/>
+      <Column Name="FOTO" DataType="System.Byte[]" BindableControl="Picture"/>
+      <Column Name="DOGYERTAR" DataType="System.String"/>
+      <Column Name="DEP_AD" DataType="System.String"/>
+      <Column Name="PARENT_INFO_NAME" DataType="System.String"/>
+      <Column Name="SOBE" DataType="System.String"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" TopMargin="5" RightMargin="5" BottomMargin="5" FirstPageSource="1" OtherPagesSource="1" Columns.Count="2" Columns.Width="97.5" Columns.Positions="0,97.5" Watermark.Enabled="true" Watermark.Text="NatoTechnology" Watermark.TextRotation="Horizontal" Watermark.ShowImageOnTop="true">
+    <DataBand Name="Data1" Width="368.55" Height="209.79" DataSource="V_TELEBEBILET">
+      <TextObject Name="Text1" Left="149.2" Top="84.05" Width="150.2" Height="9.45" Text="[V_TELEBEBILET.STUD_ID]" VertAlign="Center" Font="Arial, 6pt, style=Bold" TextFill.Color="0, 0, 64"/>
+      <TextObject Name="Text2" Left="149.2" Top="102.95" Width="150.2" Height="9.45" Text="[V_TELEBEBILET.STUDENT]" VertAlign="Center" Font="Arial, 6pt, style=Bold" TextFill.Color="0, 0, 64"/>
+      <TextObject Name="Text3" Left="149.2" Top="121.85" Width="150.2" Height="9.45" Text="[V_TELEBEBILET.DOGYERTAR]" Format="Date" Format.Format="d" VertAlign="Center" Font="Arial, 6pt, style=Bold" TextFill.Color="0, 0, 64"/>
+      <TextObject Name="Text4" Left="149.2" Top="137.24" Width="134.3" Height="16.9" Text="[V_TELEBEBILET.DEP_AD_AZ]" VertAlign="Center" Font="Arial, 6pt, style=Bold" TextFill.Color="0, 0, 64"/>
+      <TextObject Name="Text5" Left="149.2" Top="160.27" Width="135.2" Height="9.45" Text="[V_TELEBEBILET.PARENT_INFO_NAME]" VertAlign="Center" Font="Arial, 6pt, style=Bold" TextFill.Color="0, 0, 64"/>
+      <TextObject Name="Text6" Left="149.2" Top="179.17" Width="150.6" Height="9.45" Text="[V_TELEBEBILET.SOBE]" Format="Date" Format.Format="d" VertAlign="Center" Font="Arial, 6pt, style=Bold" TextFill.Color="0, 0, 64"/>
+      <PictureObject Name="Picture2" Left="6" Top="86.05" Width="85.81" Height="108.49" SizeMode="StretchImage" DataColumn="V_TELEBEBILET.FOTO"/>
+      <BarcodeObject Name="Barcode1" Left="285.5" Top="90.05" Width="31.15" Height="90" Angle="270" DataColumn="V_TELEBEBILET.STUD_ID" Text="0123456789" Zoom="0.8" Barcode="Code128" Barcode.AutoEncode="true"/>
+    </DataBand>
+  </ReportPage>
+</Report>

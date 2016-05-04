@@ -1,0 +1,813 @@
+G:\Elvin\Programming\C#\tms\Code\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\tms\Code\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\Code\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\Code\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\Code\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.ders_qeyd.activated_courses.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.ders_qeyd.ders_Qeydiyyat.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.ders_qeyd.elective_courses.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.ders_qeyd.frm_dok.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.ders_qeyd.status.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\tms\Code\TMS\obj\Debug\GenerateResource.read.3.tlog
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.exe.config
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.exe
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.pdb
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.exe.manifest
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.application
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.exe
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.pdb
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.advisor.danisman.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.fip.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.journal.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.activated_courses.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.ders_Qeydiyyat.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.elective_courses.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.frm_dok.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.status.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.frmMain.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.history.form_history.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.Properties.Resources.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.login.frmLogin.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.frmTH.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.hesablama.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.odeme.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.THStatistics.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.trans.frmTrans.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.trans.scores.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\findemp.frmFindEmp.resources
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\GenerateResource.read.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\GenerateResource.read.3.tlog
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\GenerateResource.write.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.exe.licenses
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.exe.manifest
+F:\My Documents\Visual Studio 2010\Projects\TH_TMS\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.activated_courses.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.ders_Qeydiyyat.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.elective_courses.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.frm_dok.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.ders_qeyd.status.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\GenerateResource.read.3.tlog
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\Code\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\GenerateResource.read.3.tlog
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\Mehman\TH_TMS - DBMASTER\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\GenerateResource.read.3.tlog
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\Mehman\tms\TH_TMS_NEW\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\GenerateResource.read.3.tlog
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TH_TMS.application
+C:\Users\shamil\Desktop\Code_MUF\TMS\bin\Debug\TH_TMS.exe.config
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TH_TMS.exe
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TH_TMS.pdb
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.advisor.danisman.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.cixarislar.fip.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.cixarislar.journal.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.frmMain.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.history.form_history.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.login.frmLogin.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.TH.frmTH.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.TH.hesablama.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.TH.odeme.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.TH.THStatistics.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.trans.frmTrans.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.trans.scores.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\findemp.frmFindEmp.resources
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\GenerateResource.read.3.tlog
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TH_TMS.exe.licenses
+C:\Users\shamil\Desktop\Code_MUF\TMS\bin\Debug\TH_TMS.exe.manifest
+C:\Users\shamil\Desktop\Code_MUF\TMS\bin\Debug\TH_TMS.application
+C:\Users\shamil\Desktop\Code_MUF\TMS\bin\Debug\TH_TMS.exe
+C:\Users\shamil\Desktop\Code_MUF\TMS\bin\Debug\TH_TMS.pdb
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TH_TMS.exe.manifest
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TH_TMS.application
+C:\Users\shamil\Desktop\Code_MUF\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+G:\Elvin\Programming\C#\tms\Code_MUF\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.exe.config
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.exe
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.pdb
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.advisor.danisman.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.fip.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.journal.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.frmMain.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.history.form_history.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.login.frmLogin.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.frmTH.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.hesablama.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.odeme.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.THStatistics.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.trans.frmTrans.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.trans.scores.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\findemp.frmFindEmp.resources
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\GenerateResource.read.3.tlog
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.exe.licenses
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.exe.manifest
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.application
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.exe
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.pdb
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.exe.manifest
+C:\Users\shamil\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.application
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.exe.config
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.exe
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.pdb
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.exe.manifest
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.application
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.exe
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\bin\Debug\TH_TMS.pdb
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.advisor.danisman.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.fip.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.journal.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.frmMain.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.history.form_history.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.login.frmLogin.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.frmTH.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.hesablama.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.odeme.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.TH.THStatistics.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.trans.frmTrans.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TMS.trans.scores.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\UMUMI.birim.frmBolmeler.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\findemp.frmFindEmp.resources
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\GenerateResource.read.3.tlog
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.exe.licenses
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.exe.manifest
+C:\Users\enagiyev\Desktop\TH_TMS_MUF\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\GenerateResource.read.3.tlog
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.adaptation.form_adaptation.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.adaptation.form_mufsq.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.adaptation.transfer_course.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.adaptation.foreign_course.resources
+G:\Elvin\Programming\C#\tms\TH_TMS\TMS\obj\Debug\TMS.ekders.ekDers_mevacib.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.foreign_course.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_mufsq.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.transfer_course.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.ekders.ekDers_mevacib.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_adaptation.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\GenerateResource.read.3.tlog
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.config
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.application
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.pdb
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.foreign_course.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_mufsq.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.transfer_course.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.advisor.danisman.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.fip.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.journal.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.ekders.ekDers_mevacib.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.frmMain.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.history.form_history.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.login.frmLogin.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.frmTH.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.hesablama.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.odeme.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.THStatistics.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_adaptation.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.frmTrans.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.scores.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\findemp.frmFindEmp.resources
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\GenerateResource.read.1.tlog
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\GenerateResource.read.3.tlog
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\GenerateResource.write.1.tlog
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.licenses
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.manifest
+G:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.application
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.config
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.pdb
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.manifest
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.application
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.pdb
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csprojResolveAssemblyReference.cache
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.foreign_course.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_mufsq.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.transfer_course.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.advisor.danisman.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.fip.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.journal.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.ekders.ekDers_mevacib.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.frmMain.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.history.form_history.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Properties.Resources.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.login.frmLogin.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.frmTH.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.hesablama.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.odeme.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.THStatistics.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_adaptation.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.frmTrans.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.scores.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\findemp.frmFindEmp.resources
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.licenses
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.manifest
+E:\Elvin\Programming\C#\tms\BackUp\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.application
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.config
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.pdb
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csprojResolveAssemblyReference.cache
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.foreign_course.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_mufsq.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.transfer_course.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.advisor.danisman.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.fip.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.journal.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.ekders.ekDers_mevacib.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.frmMain.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.history.form_history.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Properties.Resources.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.login.frmLogin.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.hesablama.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.odeme.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.THStatistics.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_adaptation.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.frmTrans.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.scores.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\findemp.frmFindEmp.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.frmTH.resources
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.licenses
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.manifest
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.application
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.pdb
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.manifest
+E:\iso\ORACLE\NTNU_SETUP\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.application
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.config
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.pdb
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csprojResolveAssemblyReference.cache
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.foreign_course.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_mufsq.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.transfer_course.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.advisor.danisman.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.fip.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.journal.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.ekders.ekDers_mevacib.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.frmMain.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.history.form_history.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.login.frmLogin.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.frmTH.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.hesablama.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.odeme.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.THStatistics.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_adaptation.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.frmTrans.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.scores.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\findemp.frmFindEmp.resources
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.licenses
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.manifest
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.application
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.pdb
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Data.v12.1.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Utils.v12.1.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraTreeList.v12.1.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\FastReport.Bars.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\FastReport.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\FastReport.Editor.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Data.v12.1.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Utils.v12.1.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraTreeList.v12.1.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.manifest
+C:\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.application
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.config
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.pdb
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe.manifest
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.application
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.exe
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\TH_TMS.pdb
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Data.v12.1.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Utils.v12.1.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraTreeList.v12.1.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\FastReport.Bars.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\FastReport.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\FastReport.Editor.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Data.v12.1.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.Utils.v12.1.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraTreeList.v12.1.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csprojResolveAssemblyReference.cache
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.foreign_course.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_mufsq.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.transfer_course.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.advisor.danisman.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.akademik.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.diplom.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.fip.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmArayis.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.frmForma10.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.journal.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.cixarislar.magistr.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.ekders.ekDers_mevacib.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.frmMain.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.history.form_history.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_CAG.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.Selectors.form_qafqaz.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TelebeQeydiyyat.Selectors.frmSecQohum.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.studCard.frmStudCard.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.login.frmLogin.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.StudSearch.frmStudSEARCH.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_act_orders.frmOrders.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmOnlineOrders.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.stud_orders.frmStudAction.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.frmTH.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.hesablama.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.odeme.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.TH.THStatistics.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.adaptation.form_adaptation.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.frmTrans.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.trans.scores.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\findemp.frmFindEmp.resources
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.licenses
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.TrustInfo.xml
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.exe.manifest
+C:\Users\EROL\Desktop\2014.02.26_TH_TMS_NTNU\TMS\obj\Debug\TH_TMS.application
+C:\Users\pc\Desktop\TH_TMS_NTNU1\TMS\bin\Debug\TH_TMS.exe.config
+C:\Users\pc\Desktop\TH_TMS_NTNU1\TMS\obj\Debug\TH_TMS.exe
+C:\Users\pc\Desktop\TH_TMS_NTNU1\TMS\obj\Debug\TH_TMS.pdb

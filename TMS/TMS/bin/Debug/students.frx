@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="11/16/2009 17:00:21" ReportInfo.Modified="10/28/2010 15:59:25" ReportInfo.CreatorVersion="1.4.44.0">
+  <Dictionary>
+    <OleDbDataConnection Name="Connection" ConnectionString="rijcmlq+D6ndh9H3C/r0AU5T6Mq4AN1loppxrzoUnv4HPhigeCwQD0XNUHBO9cv0x6ZwGlDovZqxyv7jgRa0ouOD+yq5qtjluBka1xwgE/PJ8YUIe8IRV3MFBkZnyytVyTfs67vT0gRiJlEOOFR064zqWOQLSiMIeF1E2UQTjwKrqC50yw=">
+      <TableDataSource Name="Table" DataType="System.Int32" Enabled="true" TableName="Table" SelectCommand="SELECT D.STUD_ID, D.STUDENT, D.FAC, D.DEP_AD_AZ, D.PARENT_INFO_NAME, D.FOTO&#13;&#10;FROM DBMAN.&quot;V_TELEBEBILET&quot; D where d.stud_id = '060404022'">
+        <Column Name="FOTO" DataType="System.Byte[]" BindableControl="Picture"/>
+        <Column Name="STUD_ID" DataType="System.String"/>
+        <Column Name="STUDENT" DataType="System.String"/>
+        <Column Name="DEP_AD_AZ" DataType="System.String"/>
+        <Column Name="PARENT_INFO_NAME" DataType="System.String"/>
+        <Column Name="FAC" DataType="System.String"/>
+      </TableDataSource>
+    </OleDbDataConnection>
+    <TableDataSource Name="V_TELEBEBILET" ReferenceName="dataSet1.V_TELEBEBILET" DataType="System.Int32" Enabled="true">
+      <Column Name="STUD_ID" DataType="System.String"/>
+      <Column Name="STUDENT" DataType="System.String"/>
+      <Column Name="FAC" DataType="System.String"/>
+      <Column Name="DEP_AD_AZ" DataType="System.String"/>
+      <Column Name="FOTO" DataType="System.Byte[]" BindableControl="Picture"/>
+      <Column Name="DOGYERTAR" DataType="System.String"/>
+      <Column Name="DEP_AD" DataType="System.String"/>
+      <Column Name="PARENT_INFO_NAME" DataType="System.String"/>
+      <Column Name="SOBE" DataType="System.String"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" Landscape="true" PaperWidth="85" PaperHeight="54" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0" Columns.Count="2" Columns.Width="27" Columns.Positions="0,27" Watermark.Enabled="true" Watermark.Text="NatoTechnology" Watermark.TextRotation="Horizontal" Watermark.ShowImageOnTop="true">
+    <DataBand Name="Data1" Width="102.06" Height="204.12" DataSource="Table">
+      <PictureObject Name="Picture1" Left="230.58" Top="78.62" Width="89.96" Height="111.13" DataColumn="Table.FOTO"/>
+      <BarcodeObject Name="Barcode1" Left="69.17" Top="162.54" Width="142.13" Height="30.24" AutoSize="false" DataColumn="Table.STUD_ID" ShowText="false" Barcode="2/5 Interleaved"/>
+      <TextObject Name="Text1" Left="71.82" Top="75.6" Width="113.4" Height="18.9" Text="[Table.STUD_ID]" Font="Arial, 9pt, style=Bold"/>
+      <TextObject Name="Text2" Left="71.82" Top="90.72" Width="160.65" Height="18.9" Text="[Table.STUDENT]" Font="Arial, 9pt"/>
+      <TextObject Name="Text3" Left="71.82" Top="105.84" Width="160.65" Height="18.9" Text="[Table.PARENT_INFO_NAME]" Font="Arial, 9pt"/>
+      <TextObject Name="Text4" Left="71.82" Top="136.08" Width="160.65" Height="28.35" Text="[Table.DEP_AD_AZ]" Font="Arial, 8pt"/>
+      <TextObject Name="Text5" Left="71.82" Top="120.2" Width="160.65" Height="18.9" Text="[Table.FAC]" Font="Arial, 9pt"/>
+    </DataBand>
+  </ReportPage>
+</Report>

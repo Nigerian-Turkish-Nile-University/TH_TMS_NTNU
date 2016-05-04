@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{17CA7E3B-F9DA-4BAE-BB0F-A2D23B432360}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TMS</RootNamespace>
+    <AssemblyName>TH_TMS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <ManifestCertificateThumbprint>A37C7127512E923C5E68D788B21F45EE756F8974</ManifestCertificateThumbprint>
+    <ManifestKeyFile>TMS_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>C:\Users\enagiyev\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://172.16.1.20/</InstallUrl>
+    <SupportUrl>ftp://store.qafqaz.local/personnel/Melumatlar/_I_H_M_/</SupportUrl>
+    <TargetCulture>az-Latn-AZ</TargetCulture>
+    <ProductName>TH_TMS</ProductName>
+    <PublisherName>Qafqaz Universiteti</PublisherName>
+    <MinimumRequiredVersion>1.0.0.1</MinimumRequiredVersion>
+    <WebPage>www.qafqaz.edu.az</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.2</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>login.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ADODB, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="DevExpress.BonusSkins.v12.1, Version=12.1.10.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v12.1, Version=12.1.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.1.Core, Version=12.1.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v12.1, Version=12.1.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v12.1, Version=12.1.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v12.1, Version=12.1.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v12.1, Version=12.1.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FastReport, Version=2016.1.2.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Bars, Version=2016.1.2.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net\FastReport.Bars.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Editor, Version=2016.1.2.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net\FastReport.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Maliyye_TH, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Maliyye_TH.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Oracle.DataAccess, Version=2.112.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\app\User\product\11.2.0\client\ODP.NET\bin\2.x\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="reports, Version=1.0.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\reports.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adaptation\foreign_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adaptation\foreign_course.Designer.cs">
+      <DependentUpon>foreign_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adaptation\form_mufsq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adaptation\form_mufsq.Designer.cs">
+      <DependentUpon>form_mufsq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adaptation\transfer_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adaptation\transfer_course.Designer.cs">
+      <DependentUpon>transfer_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="advisor\danisman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="advisor\danisman.Designer.cs">
+      <DependentUpon>danisman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cixarislar\akademik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cixarislar\akademik.Designer.cs">
+      <DependentUpon>akademik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cixarislar\diplom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cixarislar\diplom.Designer.cs">
+      <DependentUpon>diplom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cixarislar\fip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cixarislar\fip.Designer.cs">
+      <DependentUpon>fip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cixarislar\frmArayis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cixarislar\frmArayis.Designer.cs">
+      <DependentUpon>frmArayis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cixarislar\frmForma10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cixarislar\frmForma10.Designer.cs">
+      <DependentUpon>frmForma10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cixarislar\journal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cixarislar\journal.Designer.cs">
+      <DependentUpon>journal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cixarislar\magistr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cixarislar\magistr.Designer.cs">
+      <DependentUpon>magistr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ekders\mevacib.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekders\mevacib.Designer.cs">
+      <DependentUpon>mevacib.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="history\form_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="history\form_history.Designer.cs">
+      <DependentUpon>form_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Selectors\form_CAG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selectors\form_CAG.Designer.cs">
+      <DependentUpon>form_CAG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Selectors\form_qafqaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selectors\form_qafqaz.Designer.cs">
+      <DependentUpon>form_qafqaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Selectors\frmSecQohum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selectors\frmSecQohum.Designer.cs">
+      <DependentUpon>frmSecQohum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stud_orders\frmOnlineOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stud_orders\frmOnlineOrders.Designer.cs">
+      <DependentUpon>frmOnlineOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TH\hesablama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TH\hesablama.Designer.cs">
+      <DependentUpon>hesablama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adaptation\form_adaptation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adaptation\form_adaptation.Designer.cs">
+      <DependentUpon>form_adaptation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trans\frmTrans1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmTrans.resx</DependentUpon>
+    </Compile>
+    <Compile Include="trans\scores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trans\scores.Designer.cs">
+      <DependentUpon>scores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UMUMI\Prompt.cs" />
+    <EmbeddedResource Include="adaptation\foreign_course.resx">
+      <DependentUpon>foreign_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adaptation\form_mufsq.resx">
+      <DependentUpon>form_mufsq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adaptation\transfer_course.resx">
+      <DependentUpon>transfer_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="advisor\danisman.resx">
+      <DependentUpon>danisman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cixarislar\akademik.resx">
+      <DependentUpon>akademik.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cixarislar\diplom.resx">
+      <DependentUpon>diplom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cixarislar\fip.resx">
+      <DependentUpon>fip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cixarislar\frmArayis.resx">
+      <DependentUpon>frmArayis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cixarislar\frmForma10.resx">
+      <DependentUpon>frmForma10.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cixarislar\journal.resx">
+      <DependentUpon>journal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cixarislar\magistr.resx">
+      <DependentUpon>magistr.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ekders\mevacib.resx">
+      <DependentUpon>mevacib.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="history\form_history.resx">
+      <DependentUpon>form_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selectors\form_CAG.resx">
+      <DependentUpon>form_CAG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selectors\form_qafqaz.resx">
+      <DependentUpon>form_qafqaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selectors\frmSecQohum.resx">
+      <DependentUpon>frmSecQohum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studCard\frmStudCard.resx">
+      <DependentUpon>frmStudCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudSearch\frmStudSEARCH.resx">
+      <DependentUpon>frmStudSEARCH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stud_act_orders\frmOrders.resx">
+      <DependentUpon>frmOrders.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stud_orders\frmOnlineOrders.resx">
+      <DependentUpon>frmOnlineOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stud_orders\frmStudAction.resx">
+      <DependentUpon>frmStudAction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TH\frmTH.resx">
+      <DependentUpon>frmTH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TH\hesablama.resx">
+      <DependentUpon>hesablama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TH\odeme.resx">
+      <DependentUpon>odeme.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TH\THStatistics.resx">
+      <DependentUpon>THStatistics.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adaptation\form_adaptation.resx">
+      <DependentUpon>form_adaptation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trans\frmTrans.resx">
+      <DependentUpon>frmTrans.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>frmTrans1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trans\scores.resx">
+      <DependentUpon>scores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UMUMI\findemp\frmFindEmp.resx">
+      <DependentUpon>frmFindEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="studCard\frmStudCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studCard\frmStudCard.Designer.cs">
+      <DependentUpon>frmStudCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudSearch\frmStudSEARCH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudSearch\frmStudSEARCH.Designer.cs">
+      <DependentUpon>frmStudSEARCH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stud_act_orders\frmOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stud_act_orders\frmOrders.Designer.cs">
+      <DependentUpon>frmOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stud_orders\frmStudAction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stud_orders\frmStudAction.Designer.cs">
+      <DependentUpon>frmStudAction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TH\frmTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TH\frmTH.Designer.cs">
+      <DependentUpon>frmTH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TH\odeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TH\odeme.Designer.cs">
+      <DependentUpon>odeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TH\THStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TH\THStatistics.Designer.cs">
+      <DependentUpon>THStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trans\frmTrans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trans\frmTrans.Designer.cs">
+      <DependentUpon>frmTrans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UMUMI\findemp\frmFindEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UMUMI\findemp\frmFindEmp.Designer.cs">
+      <DependentUpon>frmFindEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UMUMI\functions.cs" />
+    <Compile Include="UMUMI\Globals.cs" />
+    <Compile Include="UMUMI\native.cs" />
+    <Compile Include="UMUMI\oraConn.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no_foto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m-arr-d.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m-arr-u.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_find.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit2.gif" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\Pill spinning.gif" />
+    <None Include="Resources\User.gif" />
+    <None Include="Resources\new_post.gif" />
+    <None Include="Resources\red.gif" />
+    <None Include="Resources\logo.gif" />
+    <None Include="Resources\Qafqaz.jpg" />
+    <None Include="Resources\firstrec.gif" />
+    <None Include="Resources\lastrec.gif" />
+    <Content Include="login.ico" />
+    <None Include="Resources\delete_16.ico" />
+    <None Include="Resources\add_16.png" />
+    <None Include="Resources\identity.png" />
+    <None Include="Resources\identity %284%29.png" />
+    <None Include="Resources\Ball-02-june.gif" />
+    <None Include="Resources\Flame.gif" />
+    <None Include="Resources\aline_e0.gif" />
+    <None Include="Resources\prevpage.gif" />
+    <None Include="Resources\nextpage.gif" />
+    <None Include="Resources\screwdriver.png" />
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
